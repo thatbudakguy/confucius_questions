@@ -1,0 +1,128 @@
+title: "Asking Questions to Confucius in Classical Chinese Texts"
+description: |
+  This project uses annotated data from Classical Chinese works to train a part of speech tagger and named entity recognizer. We construct an NLP pipeline that can isolate sentences in Classical texts where a named person is asking a question to Confucius. Texts are taken from the Kanseki Repository.
+
+# Variables can be referenced across the project.yml using ${vars.var_name}
+vars:
+  lang: "lzh"               # two- or three-letter ISO 639 code
+  data_source: "lit"        # "lit" (e.g. novels), "news", "web", etc.
+  model_size: "sm"          # "sm", "md", "lg", "trf" (relative size of model)
+  package_version: "1.0.0"  # update this when you make a new version
+  max_epochs: 100           # when to force an end to training/pretraining
+  test_size: 0.2            # size of corpus to reserve for testing (20%)
+  n_sents: 10               # number of sentences per generated document
+  gpu: -1                   # set to 0 to use your GPU if you have one
+
+# These are the directories that the project needs. The project CLI will make
+# sure that they always exist.
+directories:
+  ["assets", "configs", "corpus", "packages", "pretrain", "scripts", "training"]
+
+assets:
+  - dest: "assets/lang/${vars.lang}"
+    description: "New language module from Cadet"
+  - dest: "assets/text"
+    description: "Raw text files for pretraining"
+  - dest: "assets/annotations"
+    description: "Annotated text files from INCEpTION"
+
+workflows:
+  all:
+    - install-dependencies
+    - install-language
+    - convert-raw-text
+    - convert-annotations
+    - split-data
+    - debug-data
+    - debug-config
+    - pretrain-model
+    - train-model
+  install:
+    - install-dependencies
+    - install-language
+  setup:
+    - convert-raw-text
+    - convert-annotations
+    - split-data
+    - debug-data
+  train:
+    - debug-config
+    - pretrain-model
+    - train-model
+
+commands:
+  - name: install-dependencies
+    help: "Install python dependencies"
+    script: ["pip install -r requirements.txt"]
+
+  - name: install-language
+    help: "Install the language module from Cadet"
+    deps: ["assets/lang/${vars.lang}"]
+    script: ["pip install -e assets/lang/${vars.lang}"]
+
+  - name: convert-raw-text
+    help: "Convert raw text files to spaCy's format"
+    script: ["python scripts/convert_text.py assets/text corpus/ ${vars.n_sents} ${vars.lang}"]
+    deps: ["assets/text"]
+    outputs: ["corpus/pretrain.spacy"]
+
+  - name: convert-annotations
+    help: "Convert annotated data from INCEpTION to spaCy's format"
+    script:
+      - "python scripts/validate_annotations.py assets/annotations"
+      - "spacy convert assets/annotations corpus/ --n-sents ${vars.n_sents} --lang ${vars.lang} --concatenate"
+    deps: ["assets/annotations"]
+    outputs: ["corpus/annotations.spacy"]
+
+  - name: split-data
+    help: "Split the data into training, validation, and test sets"
+    script: ["python scripts/split_data.py corpus/annotations.spacy corpus/ ${vars.test_size} ${vars.lang}"]
+    deps: ["corpus/annotations.spacy"]
+    outputs:
+      - "corpus/train.spacy"
+      - "corpus/dev.spacy"
+      - "corpus/test.spacy"
+
+  - name: debug-data
+    help: "Validate the training data"
+    script: ["spacy debug data configs/config.cfg"]
+    deps:
+      - "corpus/pretrain.spacy"
+      - "corpus/train.spacy"
+      - "corpus/dev.spacy"
+
+  - name: debug-config
+    help: "Validate the selected spaCy config file"
+    script: ["spacy debug config configs/config.cfg"]
+    deps: ["configs/config.cfg"]
+
+  - name: pretrain-model
+    help: "Pretrain context for the language model"
+    script: ["python -m spacy pretrain configs/config.cfg pretrain --gpu-id ${vars.gpu} --nlp.lang ${vars.lang} --pretraining.max_epochs ${vars.max_epochs}"]
+    deps:
+      - "configs/config.cfg"
+      - "corpus/pretrain.spacy"
+    outputs: ["pretrain/model-last.bin"]
+
+  - name: train-model
+    help: "Train the language model"
+    script: ["python -m spacy train configs/config.cfg --output training --gpu-id ${vars.gpu} --nlp.lang ${vars.lang} --training.max_epochs ${vars.max_epochs} --paths.init_tok2vec pretrain/model-last.bin"]
+    deps:
+      - "configs/config.cfg"
+      - "pretrain/model-last.bin"
+      - "corpus/train.spacy"
+      - "corpus/dev.spacy"
+    outputs: ["training/model-best"]
+
+  - name: evaluate-model
+    help: "Evaluate the model using test data and save the metrics"
+    script: ["python -m spacy evaluate ./training/model-best ./corpus/test.spacy --output ./metrics.json --gpu-id ${vars.gpu}"]
+    deps:
+      - "training/model-best"
+      - "corpus/test.spacy"
+    outputs: ["metrics.json"]
+
+  - name: package-model
+    help: "Package the trained model so it can be installed"
+    script: ["python -m spacy package training/model-best packages --name core_${vars.data_source}_${vars.model_size} --version ${vars.package_version} --force"]
+    deps: ["training/model-best"]

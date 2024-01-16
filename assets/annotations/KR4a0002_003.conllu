@@ -1,0 +1,2967 @@
+# sent_id = 1
+# text = 校書郎臣王逸上
+1	校	校	VERB	_	_	1	_	_	SpaceAfter=No
+2	書	書	NOUN	_	_	2	_	_	SpaceAfter=No
+3	郎	郎	NOUN	_	_	3	_	_	SpaceAfter=No
+4	臣	臣	NOUN	_	_	4	_	_	SpaceAfter=No
+5	王	王	NOUN	_	_	5	_	_	SpaceAfter=No
+6	逸	逸	VERB	_	_	6	_	_	SpaceAfter=No
+7	上	上	NOUN	_	_	7	_	_	SpaceAfter=No
+
+# sent_id = 2
+# text = 天問者
+1	天	天	NOUN	_	_	1	_	_	SpaceAfter=No
+2	問	問	VERB	_	_	2	_	_	SpaceAfter=No
+3	者	者	PART	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 3
+# text = 屈原之所作也
+1	屈	屈	VERB	_	_	1	_	_	SpaceAfter=No
+2	原	原	NOUN	_	_	2	_	_	SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	所	所	PART	_	_	4	_	_	SpaceAfter=No
+5	作	作	VERB	_	_	5	_	_	SpaceAfter=No
+6	也	也	PART	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 4
+# text = 何不言問天
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	不	不	ADV	_	_	2	_	_	SpaceAfter=No
+3	言	言	VERB	_	_	3	_	_	SpaceAfter=No
+4	問	問	VERB	_	_	4	_	_	SpaceAfter=No
+5	天	天	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 5
+# text = 天尊不可問
+1	天	天	NOUN	_	_	1	_	_	SpaceAfter=No
+2	尊	尊	VERB	_	_	2	_	_	SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	可	可	AUX	_	_	4	_	_	SpaceAfter=No
+5	問	問	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 6
+# text = 故曰天問也
+1	故	故	ADV	_	_	1	_	_	SpaceAfter=No
+2	曰	曰	VERB	_	_	2	_	_	SpaceAfter=No
+3	天	天	NOUN	_	_	3	_	_	SpaceAfter=No
+4	問	問	VERB	_	_	4	_	_	SpaceAfter=No
+5	也	也	PART	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 7
+# text = 屈原放逐
+1	屈	屈	VERB	_	_	1	_	_	SpaceAfter=No
+2	原	原	NOUN	_	_	2	_	_	SpaceAfter=No
+3	放	放	VERB	_	_	3	_	_	SpaceAfter=No
+4	逐	逐	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 8
+# text = 憂心愁悴
+1	憂	憂	VERB	_	_	1	_	_	SpaceAfter=No
+2	心	心	NOUN	_	_	2	_	_	SpaceAfter=No
+3	愁	愁	VERB	_	_	3	_	_	SpaceAfter=No
+4	悴	悴	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 9
+# text = 彷徨山澤
+1	彷	彷	VERB	_	_	1	_	_	SpaceAfter=No
+2	徨	徨	VERB	_	_	2	_	_	SpaceAfter=No
+3	山	山	NOUN	_	_	3	_	_	SpaceAfter=No
+4	澤	澤	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 10
+# text = 經歷陵陸
+1	經	經	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	歷	歷	VERB	_	_	2	_	_	SpaceAfter=No
+3	陵	陵	NOUN	_	_	3	_	_	SpaceAfter=No
+4	陸	陸	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 11
+# text = 嗟號昊旻
+1	嗟	嗟	INTJ	_	_	1	_	_	SpaceAfter=No
+2	號	號	NOUN	_	_	2	_	_	SpaceAfter=No
+3	昊	昊	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	旻	旻	PROPN	_	_	4	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 12
+# text = 仰天歎息
+1	仰	仰	VERB	_	_	1	_	_	SpaceAfter=No
+2	天	天	NOUN	_	_	2	_	_	SpaceAfter=No
+3	歎	歎	VERB	_	_	3	_	_	SpaceAfter=No
+4	息	息	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 13
+# text = 見楚有先王之廟及公卿祠堂
+1	見	見	VERB	_	_	1	_	_	SpaceAfter=No
+2	楚	楚	PROPN	_	_	2	_	_	NE=B-COUNTRY|SpaceAfter=No
+3	有	有	VERB	_	_	3	_	_	SpaceAfter=No
+4	先	先	NOUN	_	_	4	_	_	SpaceAfter=No
+5	王	王	NOUN	_	_	5	_	_	SpaceAfter=No
+6	之	之	SCONJ	_	_	6	_	_	SpaceAfter=No
+7	廟	廟	NOUN	_	_	7	_	_	SpaceAfter=No
+8	及	及	ADP	_	_	8	_	_	SpaceAfter=No
+9	公	公	NOUN	_	_	9	_	_	SpaceAfter=No
+10	卿	卿	NOUN	_	_	10	_	_	SpaceAfter=No
+11	祠	祠	VERB	_	_	11	_	_	SpaceAfter=No
+12	堂	堂	NOUN	_	_	12	_	_	SpaceAfter=No
+
+# sent_id = 14
+# text = 圖畫天地山川神靈
+1	圖	圖	VERB	_	_	1	_	_	SpaceAfter=No
+2	畫	畫	VERB	_	_	2	_	_	SpaceAfter=No
+3	天	天	NOUN	_	_	3	_	_	SpaceAfter=No
+4	地	地	NOUN	_	_	4	_	_	SpaceAfter=No
+5	山	山	NOUN	_	_	5	_	_	SpaceAfter=No
+6	川	川	NOUN	_	_	6	_	_	SpaceAfter=No
+7	神	神	NOUN	_	_	7	_	_	SpaceAfter=No
+8	靈	靈	VERB	_	_	8	_	_	SpaceAfter=No
+
+# sent_id = 15
+# text = 琦瑋僪佹
+1	琦	琦	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	瑋	瑋	PROPN	_	_	2	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+3	僪	僪	NOUN	_	_	3	_	_	SpaceAfter=No
+4	佹	佹	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 16
+# text = 及古賢聖怪物行事
+1	及	及	VERB	_	_	1	_	_	SpaceAfter=No
+2	古	古	NOUN	_	_	2	_	_	SpaceAfter=No
+3	賢	賢	VERB	_	_	3	_	_	SpaceAfter=No
+4	聖	聖	NOUN	_	_	4	_	_	SpaceAfter=No
+5	怪	怪	VERB	_	_	5	_	_	SpaceAfter=No
+6	物	物	NOUN	_	_	6	_	_	SpaceAfter=No
+7	行	行	VERB	_	_	7	_	_	SpaceAfter=No
+8	事	事	NOUN	_	_	8	_	_	SpaceAfter=No
+
+# sent_id = 17
+# text = 周流罷倦
+1	周	周	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	流	流	VERB	_	_	2	_	_	SpaceAfter=No
+3	罷	罷	VERB	_	_	3	_	_	SpaceAfter=No
+4	倦	倦	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 18
+# text = 休息其下
+1	休	休	VERB	_	_	1	_	_	SpaceAfter=No
+2	息	息	VERB	_	_	2	_	_	SpaceAfter=No
+3	其	其	PRON	_	_	3	_	_	SpaceAfter=No
+4	下	下	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 19
+# text = 仰見圖畫
+1	仰	仰	VERB	_	_	1	_	_	SpaceAfter=No
+2	見	見	VERB	_	_	2	_	_	SpaceAfter=No
+3	圖	圖	NOUN	_	_	3	_	_	SpaceAfter=No
+4	畫	畫	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 20
+# text = 因書其壁
+1	因	因	VERB	_	_	1	_	_	SpaceAfter=No
+2	書	書	VERB	_	_	2	_	_	SpaceAfter=No
+3	其	其	PRON	_	_	3	_	_	SpaceAfter=No
+4	壁	壁	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 21
+# text = 何而問之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	而	而	CCONJ	_	_	2	_	_	SpaceAfter=No
+3	問	問	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 22
+# text = 以渫憤懣
+1	以	以	VERB	_	_	1	_	_	SpaceAfter=No
+2	渫	渫	VERB	_	_	2	_	_	SpaceAfter=No
+3	憤	憤	VERB	_	_	3	_	_	SpaceAfter=No
+4	懣	懣	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 23
+# text = 舒瀉愁思
+1	舒	舒	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	瀉	瀉	NOUN	_	_	2	_	_	SpaceAfter=No
+3	愁	愁	VERB	_	_	3	_	_	SpaceAfter=No
+4	思	思	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 24
+# text = 楚人哀惜屈原
+1	楚	楚	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	人	人	NOUN	_	_	2	_	_	SpaceAfter=No
+3	哀	哀	VERB	_	_	3	_	_	SpaceAfter=No
+4	惜	惜	VERB	_	_	4	_	_	SpaceAfter=No
+5	屈	屈	VERB	_	_	5	_	_	SpaceAfter=No
+6	原	原	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 25
+# text = 因共論述
+1	因	因	VERB	_	_	1	_	_	SpaceAfter=No
+2	共	共	VERB	_	_	2	_	_	SpaceAfter=No
+3	論	論	VERB	_	_	3	_	_	SpaceAfter=No
+4	述	述	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 26
+# text = 故其文義不次序云爾
+1	故	故	ADV	_	_	1	_	_	SpaceAfter=No
+2	其	其	PRON	_	_	2	_	_	SpaceAfter=No
+3	文	文	NOUN	_	_	3	_	_	SpaceAfter=No
+4	義	義	NOUN	_	_	4	_	_	SpaceAfter=No
+5	不	不	ADV	_	_	5	_	_	SpaceAfter=No
+6	次	次	VERB	_	_	6	_	_	SpaceAfter=No
+7	序	序	NOUN	_	_	7	_	_	SpaceAfter=No
+8	云	云	VERB	_	_	8	_	_	SpaceAfter=No
+9	爾	爾	PRON	_	_	9	_	_	SpaceAfter=No
+
+# sent_id = 27
+# text = 曰
+1	曰	曰	VERB	_	_	1	_	_	SpaceAfter=No
+
+# sent_id = 28
+# text = 遂古之初
+1	遂	遂	ADV	_	_	1	_	_	SpaceAfter=No
+2	古	古	NOUN	_	_	2	_	_	SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	初	初	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 29
+# text = 誰傳道之
+1	誰	誰	PRON	_	_	1	_	_	SpaceAfter=No
+2	傳	傳	VERB	_	_	2	_	_	SpaceAfter=No
+3	道	道	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 30
+# text = 上下未形
+1	上	上	NOUN	_	_	1	_	_	SpaceAfter=No
+2	下	下	NOUN	_	_	2	_	_	SpaceAfter=No
+3	未	未	ADV	_	_	3	_	_	SpaceAfter=No
+4	形	形	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 31
+# text = 何由考之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	由	由	ADP	_	_	2	_	_	SpaceAfter=No
+3	考	考	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 32
+# text = 冥昭瞢闇
+1	冥	冥	VERB	_	_	1	_	_	SpaceAfter=No
+2	昭	昭	VERB	_	_	2	_	_	SpaceAfter=No
+3	瞢	瞢	VERB	_	_	3	_	_	SpaceAfter=No
+4	闇	闇	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 33
+# text = 誰能極之
+1	誰	誰	PRON	_	_	1	_	_	SpaceAfter=No
+2	能	能	AUX	_	_	2	_	_	SpaceAfter=No
+3	極	極	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 34
+# text = 馮翼惟像
+1	馮	馮	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	翼	翼	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	惟	惟	ADV	_	_	3	_	_	SpaceAfter=No
+4	像	像	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 35
+# text = 何以識之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	識	識	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 36
+# text = 明明闇闇
+1	明	明	VERB	_	_	1	_	_	SpaceAfter=No
+2	明	明	VERB	_	_	2	_	_	SpaceAfter=No
+3	闇	闇	VERB	_	_	3	_	_	SpaceAfter=No
+4	闇	闇	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 37
+# text = 惟時何爲
+1	惟	惟	ADV	_	_	1	_	_	SpaceAfter=No
+2	時	時	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	爲	爲	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 38
+# text = 隂陽三合
+1	隂	隂	NOUN	_	_	1	_	_	SpaceAfter=No
+2	陽	陽	NOUN	_	_	2	_	_	SpaceAfter=No
+3	三	三	NUM	_	_	3	_	_	SpaceAfter=No
+4	合	合	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 39
+# text = 何本何化
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	本	本	VERB	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	化	化	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 40
+# text = 圜則九重
+1	圜	圜	NOUN	_	_	1	_	_	SpaceAfter=No
+2	則	則	ADV	_	_	2	_	_	SpaceAfter=No
+3	九	九	NUM	_	_	3	_	_	SpaceAfter=No
+4	重	重	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 41
+# text = 孰營度之
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	營	營	VERB	_	_	2	_	_	SpaceAfter=No
+3	度	度	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 42
+# text = 惟兹何功
+1	惟	惟	ADV	_	_	1	_	_	SpaceAfter=No
+2	兹	兹	PRON	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	功	功	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 43
+# text = 孰初作之
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	初	初	NOUN	_	_	2	_	_	SpaceAfter=No
+3	作	作	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 44
+# text = 斡維焉繫
+1	斡	斡	VERB	_	_	1	_	_	SpaceAfter=No
+2	維	維	PRON	_	_	2	_	_	SpaceAfter=No
+3	焉	焉	ADV	_	_	3	_	_	SpaceAfter=No
+4	繫	繫	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 45
+# text = 天極焉加
+1	天	天	NOUN	_	_	1	_	_	SpaceAfter=No
+2	極	極	NOUN	_	_	2	_	_	SpaceAfter=No
+3	焉	焉	ADV	_	_	3	_	_	SpaceAfter=No
+4	加	加	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 46
+# text = 八柱何當
+1	八	八	NUM	_	_	1	_	_	SpaceAfter=No
+2	柱	柱	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	當	當	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 47
+# text = 東南何虧
+1	東	東	NOUN	_	_	1	_	_	SpaceAfter=No
+2	南	南	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	虧	虧	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 48
+# text = 九天之際
+1	九	九	NUM	_	_	1	_	_	SpaceAfter=No
+2	天	天	NOUN	_	_	2	_	_	SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	際	際	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 49
+# text = 安放安屬
+1	安	安	ADV	_	_	1	_	_	SpaceAfter=No
+2	放	放	VERB	_	_	2	_	_	SpaceAfter=No
+3	安	安	VERB	_	_	3	_	_	SpaceAfter=No
+4	屬	屬	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 50
+# text = 隅隈多有
+1	隅	隅	NOUN	_	_	1	_	_	SpaceAfter=No
+2	隈	隈	NOUN	_	_	2	_	_	SpaceAfter=No
+3	多	多	VERB	_	_	3	_	_	SpaceAfter=No
+4	有	有	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 51
+# text = 誰知其數
+1	誰	誰	PRON	_	_	1	_	_	SpaceAfter=No
+2	知	知	VERB	_	_	2	_	_	SpaceAfter=No
+3	其	其	PRON	_	_	3	_	_	SpaceAfter=No
+4	數	數	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 52
+# text = 天何所沓
+1	天	天	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	所	所	PART	_	_	3	_	_	SpaceAfter=No
+4	沓	沓	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 53
+# text = 十二焉分
+1	十	十	NUM	_	_	1	_	_	SpaceAfter=No
+2	二	二	NUM	_	_	2	_	_	SpaceAfter=No
+3	焉	焉	ADV	_	_	3	_	_	SpaceAfter=No
+4	分	分	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 54
+# text = 日月安屬
+1	日	日	NOUN	_	_	1	_	_	SpaceAfter=No
+2	月	月	NOUN	_	_	2	_	_	SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	屬	屬	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 55
+# text = 列星安陳
+1	列	列	VERB	_	_	1	_	_	SpaceAfter=No
+2	星	星	NOUN	_	_	2	_	_	SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	陳	陳	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 56
+# text = 出自湯谷
+1	出	出	VERB	_	_	1	_	_	SpaceAfter=No
+2	自	自	ADP	_	_	2	_	_	SpaceAfter=No
+3	湯	湯	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	谷	谷	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 57
+# text = 次于蒙汜
+1	次	次	VERB	_	_	1	_	_	SpaceAfter=No
+2	于	于	ADP	_	_	2	_	_	SpaceAfter=No
+3	蒙	蒙	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	汜	汜	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 58
+# text = 自明及晦
+1	自	自	PRON	_	_	1	_	_	SpaceAfter=No
+2	明	明	VERB	_	_	2	_	_	SpaceAfter=No
+3	及	及	ADP	_	_	3	_	_	SpaceAfter=No
+4	晦	晦	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 59
+# text = 所行幾里
+1	所	所	PART	_	_	1	_	_	SpaceAfter=No
+2	行	行	VERB	_	_	2	_	_	SpaceAfter=No
+3	幾	幾	VERB	_	_	3	_	_	SpaceAfter=No
+4	里	里	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 60
+# text = 夜光何德
+1	夜	夜	NOUN	_	_	1	_	_	SpaceAfter=No
+2	光	光	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	德	德	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 61
+# text = 死則又育
+1	死	死	VERB	_	_	1	_	_	SpaceAfter=No
+2	則	則	ADV	_	_	2	_	_	SpaceAfter=No
+3	又	又	ADV	_	_	3	_	_	SpaceAfter=No
+4	育	育	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 62
+# text = 厥利維何
+1	厥	厥	PRON	_	_	1	_	_	SpaceAfter=No
+2	利	利	NOUN	_	_	2	_	_	SpaceAfter=No
+3	維	維	PRON	_	_	3	_	_	SpaceAfter=No
+4	何	何	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 63
+# text = 而顧菟在腹
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	顧	顧	VERB	_	_	2	_	_	SpaceAfter=No
+3	菟	菟	NOUN	_	_	3	_	_	SpaceAfter=No
+4	在	在	VERB	_	_	4	_	_	SpaceAfter=No
+5	腹	腹	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 64
+# text = 女歧無合
+1	女	女	PRON	_	_	1	_	_	SpaceAfter=No
+2	歧	歧	NOUN	_	_	2	_	_	SpaceAfter=No
+3	無	無	VERB	_	_	3	_	_	SpaceAfter=No
+4	合	合	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 65
+# text = 夫焉取九子
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	焉	焉	ADV	_	_	2	_	_	SpaceAfter=No
+3	取	取	VERB	_	_	3	_	_	SpaceAfter=No
+4	九	九	NUM	_	_	4	_	_	SpaceAfter=No
+5	子	子	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 66
+# text = 伯強何處
+1	伯	伯	NOUN	_	_	1	_	_	SpaceAfter=No
+2	強	強	VERB	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	處	處	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 67
+# text = 惠氣安在
+1	惠	惠	VERB	_	_	1	_	_	SpaceAfter=No
+2	氣	氣	NOUN	_	_	2	_	_	SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	在	在	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 68
+# text = 何闔而晦
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	闔	闔	VERB	_	_	2	_	_	SpaceAfter=No
+3	而	而	CCONJ	_	_	3	_	_	SpaceAfter=No
+4	晦	晦	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 69
+# text = 何開而明
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	開	開	VERB	_	_	2	_	_	SpaceAfter=No
+3	而	而	CCONJ	_	_	3	_	_	SpaceAfter=No
+4	明	明	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 70
+# text = 角宿未旦
+1	角	角	NOUN	_	_	1	_	_	SpaceAfter=No
+2	宿	宿	VERB	_	_	2	_	_	SpaceAfter=No
+3	未	未	ADV	_	_	3	_	_	SpaceAfter=No
+4	旦	旦	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 71
+# text = 曜靈安藏
+1	曜	曜	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	靈	靈	PROPN	_	_	2	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+3	安	安	VERB	_	_	3	_	_	SpaceAfter=No
+4	藏	藏	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 72
+# text = 不任汨鴻
+1	不	不	ADV	_	_	1	_	_	SpaceAfter=No
+2	任	任	VERB	_	_	2	_	_	SpaceAfter=No
+3	汨	汨	NOUN	_	_	3	_	_	SpaceAfter=No
+4	鴻	鴻	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 73
+# text = 師何以尚之
+1	師	師	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	以	以	VERB	_	_	3	_	_	SpaceAfter=No
+4	尚	尚	VERB	_	_	4	_	_	SpaceAfter=No
+5	之	之	PRON	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 74
+# text = 僉曰何憂
+1	僉	僉	ADV	_	_	1	_	_	SpaceAfter=No
+2	曰	曰	VERB	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	憂	憂	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 75
+# text = 何不課而行之
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	不	不	ADV	_	_	2	_	_	SpaceAfter=No
+3	課	課	VERB	_	_	3	_	_	SpaceAfter=No
+4	而	而	CCONJ	_	_	4	_	_	SpaceAfter=No
+5	行	行	VERB	_	_	5	_	_	SpaceAfter=No
+6	之	之	PRON	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 76
+# text = 鴟龜曵銜
+1	鴟	鴟	NOUN	_	_	1	_	_	SpaceAfter=No
+2	龜	龜	NOUN	_	_	2	_	_	SpaceAfter=No
+3	曵	曵	VERB	_	_	3	_	_	SpaceAfter=No
+4	銜	銜	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 77
+# text = 鮌何聽焉
+1	鮌	鮌	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	聽	聽	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 78
+# text = 順欲成功
+1	順	順	VERB	_	_	1	_	_	SpaceAfter=No
+2	欲	欲	AUX	_	_	2	_	_	SpaceAfter=No
+3	成	成	VERB	_	_	3	_	_	SpaceAfter=No
+4	功	功	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 79
+# text = 帝何刑焉
+1	帝	帝	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	刑	刑	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 80
+# text = 永遏在羽山
+1	永	永	VERB	_	_	1	_	_	SpaceAfter=No
+2	遏	遏	VERB	_	_	2	_	_	SpaceAfter=No
+3	在	在	VERB	_	_	3	_	_	SpaceAfter=No
+4	羽	羽	PROPN	_	_	4	_	_	NE=B-PLACE|SpaceAfter=No
+5	山	山	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 81
+# text = 夫何三年不施
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	三	三	NUM	_	_	3	_	_	SpaceAfter=No
+4	年	年	NOUN	_	_	4	_	_	SpaceAfter=No
+5	不	不	ADV	_	_	5	_	_	SpaceAfter=No
+6	施	施	VERB	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 82
+# text = 伯禹愎鮌
+1	伯	伯	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	禹	禹	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	愎	愎	VERB	_	_	3	_	_	SpaceAfter=No
+4	鮌	鮌	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 83
+# text = 夫何以變化
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	以	以	VERB	_	_	3	_	_	SpaceAfter=No
+4	變	變	VERB	_	_	4	_	_	SpaceAfter=No
+5	化	化	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 84
+# text = 纂就前緒
+1	纂	纂	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	就	就	VERB	_	_	2	_	_	SpaceAfter=No
+3	前	前	NOUN	_	_	3	_	_	SpaceAfter=No
+4	緒	緒	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 85
+# text = 遂成考功
+1	遂	遂	ADV	_	_	1	_	_	SpaceAfter=No
+2	成	成	VERB	_	_	2	_	_	SpaceAfter=No
+3	考	考	VERB	_	_	3	_	_	SpaceAfter=No
+4	功	功	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 86
+# text = 何續初繼業
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	續	續	VERB	_	_	2	_	_	SpaceAfter=No
+3	初	初	NOUN	_	_	3	_	_	SpaceAfter=No
+4	繼	繼	VERB	_	_	4	_	_	SpaceAfter=No
+5	業	業	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 87
+# text = 而厥謀不同
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	厥	厥	PRON	_	_	2	_	_	SpaceAfter=No
+3	謀	謀	VERB	_	_	3	_	_	SpaceAfter=No
+4	不	不	ADV	_	_	4	_	_	SpaceAfter=No
+5	同	同	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 88
+# text = 洪泉極深
+1	洪	洪	NOUN	_	_	1	_	_	SpaceAfter=No
+2	泉	泉	NOUN	_	_	2	_	_	SpaceAfter=No
+3	極	極	NOUN	_	_	3	_	_	SpaceAfter=No
+4	深	深	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 89
+# text = 何以窴之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	窴	窴	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 90
+# text = 地方九則
+1	地	地	NOUN	_	_	1	_	_	SpaceAfter=No
+2	方	方	NOUN	_	_	2	_	_	SpaceAfter=No
+3	九	九	NUM	_	_	3	_	_	SpaceAfter=No
+4	則	則	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 91
+# text = 何以墳之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	墳	墳	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 92
+# text = 河海應龍
+1	河	河	NOUN	_	_	1	_	_	SpaceAfter=No
+2	海	海	NOUN	_	_	2	_	_	SpaceAfter=No
+3	應	應	VERB	_	_	3	_	_	SpaceAfter=No
+4	龍	龍	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 93
+# text = 何盡何歷
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	盡	盡	VERB	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	歷	歷	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 94
+# text = 鮌何所營
+1	鮌	鮌	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	所	所	PART	_	_	3	_	_	SpaceAfter=No
+4	營	營	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 95
+# text = 禹何所成
+1	禹	禹	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	所	所	PART	_	_	3	_	_	SpaceAfter=No
+4	成	成	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 96
+# text = 康回馮怒
+1	康	康	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	回	回	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	馮	馮	VERB	_	_	3	_	_	SpaceAfter=No
+4	怒	怒	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 97
+# text = 􁪗何故以東南傾
+1	􁪗	􁪗	PUNCT	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	故	故	ADV	_	_	3	_	_	SpaceAfter=No
+4	以	以	VERB	_	_	4	_	_	SpaceAfter=No
+5	東	東	NOUN	_	_	5	_	_	SpaceAfter=No
+6	南	南	NOUN	_	_	6	_	_	SpaceAfter=No
+7	傾	傾	VERB	_	_	7	_	_	SpaceAfter=No
+
+# sent_id = 98
+# text = 九州安錯
+1	九	九	NUM	_	_	1	_	_	SpaceAfter=No
+2	州	州	NOUN	_	_	2	_	_	SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	錯	錯	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 99
+# text = 川谷何洿
+1	川	川	NOUN	_	_	1	_	_	SpaceAfter=No
+2	谷	谷	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	洿	洿	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 100
+# text = 東流不溢
+1	東	東	NOUN	_	_	1	_	_	SpaceAfter=No
+2	流	流	VERB	_	_	2	_	_	SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	溢	溢	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 101
+# text = 孰知其故
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	知	知	VERB	_	_	2	_	_	SpaceAfter=No
+3	其	其	PRON	_	_	3	_	_	SpaceAfter=No
+4	故	故	X	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 102
+# text = 東西南北
+1	東	東	NOUN	_	_	1	_	_	SpaceAfter=No
+2	西	西	NOUN	_	_	2	_	_	SpaceAfter=No
+3	南	南	NOUN	_	_	3	_	_	SpaceAfter=No
+4	北	北	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 103
+# text = 其脩孰多
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	脩	脩	NOUN	_	_	2	_	_	SpaceAfter=No
+3	孰	孰	PRON	_	_	3	_	_	SpaceAfter=No
+4	多	多	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 104
+# text = 南北順㯐
+1	南	南	NOUN	_	_	1	_	_	SpaceAfter=No
+2	北	北	NOUN	_	_	2	_	_	SpaceAfter=No
+3	順	順	VERB	_	_	3	_	_	SpaceAfter=No
+4	㯐	㯐	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 105
+# text = 其衍幾何
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	衍	衍	NOUN	_	_	2	_	_	SpaceAfter=No
+3	幾	幾	ADV	_	_	3	_	_	SpaceAfter=No
+4	何	何	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 106
+# text = 崑崙縣圃
+1	崑	崑	PROPN	_	_	1	_	_	NE=B-PLACE|SpaceAfter=No
+2	崙	崙	PROPN	_	_	2	_	_	NE=I-PLACE|SpaceAfter=No
+3	縣	縣	NOUN	_	_	3	_	_	SpaceAfter=No
+4	圃	圃	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 107
+# text = 其凥安在
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	凥	凥	VERB	_	_	2	_	_	SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	在	在	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 108
+# text = 増城九重
+1	増	増	VERB	_	_	1	_	_	SpaceAfter=No
+2	城	城	NOUN	_	_	2	_	_	SpaceAfter=No
+3	九	九	NUM	_	_	3	_	_	SpaceAfter=No
+4	重	重	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 109
+# text = 其髙幾里
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	髙	髙	NOUN	_	_	2	_	_	SpaceAfter=No
+3	幾	幾	ADV	_	_	3	_	_	SpaceAfter=No
+4	里	里	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 110
+# text = 四方之門
+1	四	四	NUM	_	_	1	_	_	SpaceAfter=No
+2	方	方	NOUN	_	_	2	_	_	SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	門	門	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 111
+# text = 其誰從焉
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	誰	誰	PRON	_	_	2	_	_	SpaceAfter=No
+3	從	從	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 112
+# text = 西北辟啓
+1	西	西	NOUN	_	_	1	_	_	SpaceAfter=No
+2	北	北	NOUN	_	_	2	_	_	SpaceAfter=No
+3	辟	辟	NOUN	_	_	3	_	_	SpaceAfter=No
+4	啓	啓	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 113
+# text = 何氣通焉
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	氣	氣	NOUN	_	_	2	_	_	SpaceAfter=No
+3	通	通	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 114
+# text = 日安不到
+1	日	日	NOUN	_	_	1	_	_	SpaceAfter=No
+2	安	安	ADV	_	_	2	_	_	SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	到	到	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 115
+# text = 燭龍何照
+1	燭	燭	NOUN	_	_	1	_	_	SpaceAfter=No
+2	龍	龍	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	照	照	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 116
+# text = 羲和之未揚
+1	羲	羲	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	和	和	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	未	未	ADV	_	_	4	_	_	SpaceAfter=No
+5	揚	揚	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 117
+# text = 若華何光
+1	若	若	VERB	_	_	1	_	_	SpaceAfter=No
+2	華	華	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	光	光	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 118
+# text = 何所冬暖
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	所	所	NOUN	_	_	2	_	_	SpaceAfter=No
+3	冬	冬	NOUN	_	_	3	_	_	SpaceAfter=No
+4	暖	暖	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 119
+# text = 何所夏寒
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	所	所	NOUN	_	_	2	_	_	SpaceAfter=No
+3	夏	夏	NOUN	_	_	3	_	_	SpaceAfter=No
+4	寒	寒	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 120
+# text = 焉有石林
+1	焉	焉	ADV	_	_	1	_	_	SpaceAfter=No
+2	有	有	VERB	_	_	2	_	_	SpaceAfter=No
+3	石	石	PROPN	_	_	3	_	_	NE=B-SURNAME|SpaceAfter=No
+4	林	林	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 121
+# text = 何獸能言
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	獸	獸	NOUN	_	_	2	_	_	SpaceAfter=No
+3	能	能	AUX	_	_	3	_	_	SpaceAfter=No
+4	言	言	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 122
+# text = 焉有虬龍
+1	焉	焉	ADV	_	_	1	_	_	SpaceAfter=No
+2	有	有	VERB	_	_	2	_	_	SpaceAfter=No
+3	虬	虬	NOUN	_	_	3	_	_	SpaceAfter=No
+4	龍	龍	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 123
+# text = 負熊以遊
+1	負	負	VERB	_	_	1	_	_	SpaceAfter=No
+2	熊	熊	NOUN	_	_	2	_	_	SpaceAfter=No
+3	以	以	VERB	_	_	3	_	_	SpaceAfter=No
+4	遊	遊	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 124
+# text = 雄虺九首
+1	雄	雄	NOUN	_	_	1	_	_	SpaceAfter=No
+2	虺	虺	NOUN	_	_	2	_	_	SpaceAfter=No
+3	九	九	NUM	_	_	3	_	_	SpaceAfter=No
+4	首	首	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 125
+# text = 儵忽焉在
+1	儵	儵	ADV	_	_	1	_	_	SpaceAfter=No
+2	忽	忽	ADV	_	_	2	_	_	SpaceAfter=No
+3	焉	焉	ADV	_	_	3	_	_	SpaceAfter=No
+4	在	在	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 126
+# text = 何所不死
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	所	所	PART	_	_	2	_	_	SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	死	死	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 127
+# text = 長人何守
+1	長	長	VERB	_	_	1	_	_	SpaceAfter=No
+2	人	人	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	守	守	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 128
+# text = 靡蓱九衢
+1	靡	靡	VERB	_	_	1	_	_	SpaceAfter=No
+2	蓱	蓱	NOUN	_	_	2	_	_	SpaceAfter=No
+3	九	九	NUM	_	_	3	_	_	SpaceAfter=No
+4	衢	衢	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 129
+# text = 枲華安居
+1	枲	枲	NOUN	_	_	1	_	_	SpaceAfter=No
+2	華	華	NOUN	_	_	2	_	_	SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	居	居	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 130
+# text = 一蛇吞象
+1	一	一	NUM	_	_	1	_	_	SpaceAfter=No
+2	蛇	蛇	NOUN	_	_	2	_	_	SpaceAfter=No
+3	吞	吞	VERB	_	_	3	_	_	SpaceAfter=No
+4	象	象	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 131
+# text = 厥大何如
+1	厥	厥	PRON	_	_	1	_	_	SpaceAfter=No
+2	大	大	VERB	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	如	如	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 132
+# text = 黒水玄趾
+1	黒	黒	VERB	_	_	1	_	_	SpaceAfter=No
+2	水	水	NOUN	_	_	2	_	_	SpaceAfter=No
+3	玄	玄	NOUN	_	_	3	_	_	SpaceAfter=No
+4	趾	趾	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 133
+# text = 三危安在
+1	三	三	PROPN	_	_	1	_	_	NE=B-PLACE|SpaceAfter=No
+2	危	危	PROPN	_	_	2	_	_	NE=I-PLACE|SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	在	在	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 134
+# text = 延年不死
+1	延	延	VERB	_	_	1	_	_	SpaceAfter=No
+2	年	年	NOUN	_	_	2	_	_	SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	死	死	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 135
+# text = 壽何所止
+1	壽	壽	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	所	所	PART	_	_	3	_	_	SpaceAfter=No
+4	止	止	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 136
+# text = 鯪魚何所
+1	鯪	鯪	NOUN	_	_	1	_	_	SpaceAfter=No
+2	魚	魚	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	所	所	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 137
+# text = 鬿堆焉處
+1	鬿	鬿	NOUN	_	_	1	_	_	SpaceAfter=No
+2	堆	堆	NOUN	_	_	2	_	_	SpaceAfter=No
+3	焉	焉	ADV	_	_	3	_	_	SpaceAfter=No
+4	處	處	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 138
+# text = 羿焉彃日
+1	羿	羿	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	焉	焉	ADV	_	_	2	_	_	SpaceAfter=No
+3	彃	彃	VERB	_	_	3	_	_	SpaceAfter=No
+4	日	日	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 139
+# text = 烏焉解羽
+1	烏	烏	NOUN	_	_	1	_	_	SpaceAfter=No
+2	焉	焉	ADV	_	_	2	_	_	SpaceAfter=No
+3	解	解	VERB	_	_	3	_	_	SpaceAfter=No
+4	羽	羽	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 140
+# text = 功降省下土四方
+1	功	功	NOUN	_	_	1	_	_	SpaceAfter=No
+2	降	降	VERB	_	_	2	_	_	SpaceAfter=No
+3	省	省	VERB	_	_	3	_	_	SpaceAfter=No
+4	下	下	NOUN	_	_	4	_	_	SpaceAfter=No
+5	土	土	NOUN	_	_	5	_	_	SpaceAfter=No
+6	四	四	NUM	_	_	6	_	_	SpaceAfter=No
+7	方	方	NOUN	_	_	7	_	_	SpaceAfter=No
+
+# sent_id = 141
+# text = 焉得彼嵞山女
+1	焉	焉	ADV	_	_	1	_	_	SpaceAfter=No
+2	得	得	VERB	_	_	2	_	_	SpaceAfter=No
+3	彼	彼	PRON	_	_	3	_	_	SpaceAfter=No
+4	嵞	嵞	NOUN	_	_	4	_	_	SpaceAfter=No
+5	山	山	NOUN	_	_	5	_	_	SpaceAfter=No
+6	女	女	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 142
+# text = 而通之于台桑
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	通	通	VERB	_	_	2	_	_	SpaceAfter=No
+3	之	之	PRON	_	_	3	_	_	SpaceAfter=No
+4	于	于	ADP	_	_	4	_	_	SpaceAfter=No
+5	台	台	NOUN	_	_	5	_	_	SpaceAfter=No
+6	桑	桑	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 143
+# text = 閔妃匹合
+1	閔	閔	VERB	_	_	1	_	_	SpaceAfter=No
+2	妃	妃	NOUN	_	_	2	_	_	SpaceAfter=No
+3	匹	匹	VERB	_	_	3	_	_	SpaceAfter=No
+4	合	合	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 144
+# text = 厥身是繼
+1	厥	厥	PRON	_	_	1	_	_	SpaceAfter=No
+2	身	身	NOUN	_	_	2	_	_	SpaceAfter=No
+3	是	是	PRON	_	_	3	_	_	SpaceAfter=No
+4	繼	繼	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 145
+# text = 胡維嗜不同味
+1	胡	胡	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	維	維	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	嗜	嗜	VERB	_	_	3	_	_	SpaceAfter=No
+4	不	不	ADV	_	_	4	_	_	SpaceAfter=No
+5	同	同	VERB	_	_	5	_	_	SpaceAfter=No
+6	味	味	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 146
+# text = 而快􁆭飽
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	快	快	VERB	_	_	2	_	_	SpaceAfter=No
+3	􁆭	􁆭	PUNCT	_	_	3	_	_	SpaceAfter=No
+4	飽	飽	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 147
+# text = 啓代益作后
+1	啓	啓	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	代	代	VERB	_	_	2	_	_	SpaceAfter=No
+3	益	益	PROPN	_	_	3	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+4	作	作	VERB	_	_	4	_	_	SpaceAfter=No
+5	后	后	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 148
+# text = 卒然離蠥
+1	卒	卒	VERB	_	_	1	_	_	SpaceAfter=No
+2	然	然	PART	_	_	2	_	_	SpaceAfter=No
+3	離	離	VERB	_	_	3	_	_	SpaceAfter=No
+4	蠥	蠥	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 149
+# text = 何啓惟憂
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	啓	啓	VERB	_	_	2	_	_	SpaceAfter=No
+3	惟	惟	PRON	_	_	3	_	_	SpaceAfter=No
+4	憂	憂	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 150
+# text = 而能拘是逹
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	能	能	AUX	_	_	2	_	_	SpaceAfter=No
+3	拘	拘	VERB	_	_	3	_	_	SpaceAfter=No
+4	是	是	PRON	_	_	4	_	_	SpaceAfter=No
+5	逹	逹	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 151
+# text = 皆歸䠶􁙛
+1	皆	皆	ADV	_	_	1	_	_	SpaceAfter=No
+2	歸	歸	VERB	_	_	2	_	_	SpaceAfter=No
+3	䠶	䠶	NOUN	_	_	3	_	_	SpaceAfter=No
+4	􁙛	􁙛	PUNCT	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 152
+# text = 而無害厥躬
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	無	無	VERB	_	_	2	_	_	SpaceAfter=No
+3	害	害	VERB	_	_	3	_	_	SpaceAfter=No
+4	厥	厥	PRON	_	_	4	_	_	SpaceAfter=No
+5	躬	躬	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 153
+# text = 何后益作革
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	后	后	NOUN	_	_	2	_	_	SpaceAfter=No
+3	益	益	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	作	作	VERB	_	_	4	_	_	SpaceAfter=No
+5	革	革	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 154
+# text = 而禹播降
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	禹	禹	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	播	播	VERB	_	_	3	_	_	SpaceAfter=No
+4	降	降	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 155
+# text = 啓棘賔商
+1	啓	啓	VERB	_	_	1	_	_	SpaceAfter=No
+2	棘	棘	NOUN	_	_	2	_	_	SpaceAfter=No
+3	賔	賔	NOUN	_	_	3	_	_	SpaceAfter=No
+4	商	商	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 156
+# text = 九辯九歌
+1	九	九	NUM	_	_	1	_	_	SpaceAfter=No
+2	辯	辯	VERB	_	_	2	_	_	SpaceAfter=No
+3	九	九	NUM	_	_	3	_	_	SpaceAfter=No
+4	歌	歌	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 157
+# text = 何勤子屠母
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	勤	勤	VERB	_	_	2	_	_	SpaceAfter=No
+3	子	子	PRON	_	_	3	_	_	SpaceAfter=No
+4	屠	屠	VERB	_	_	4	_	_	SpaceAfter=No
+5	母	母	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 158
+# text = 而死分竟地
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	死	死	VERB	_	_	2	_	_	SpaceAfter=No
+3	分	分	NOUN	_	_	3	_	_	SpaceAfter=No
+4	竟	竟	ADV	_	_	4	_	_	SpaceAfter=No
+5	地	地	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 159
+# text = 帝降夷羿
+1	帝	帝	NOUN	_	_	1	_	_	SpaceAfter=No
+2	降	降	VERB	_	_	2	_	_	SpaceAfter=No
+3	夷	夷	PROPN	_	_	3	_	_	NE=B-SURNAME|SpaceAfter=No
+4	羿	羿	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 160
+# text = 革孽夏民
+1	革	革	NOUN	_	_	1	_	_	SpaceAfter=No
+2	孽	孽	NOUN	_	_	2	_	_	SpaceAfter=No
+3	夏	夏	PROPN	_	_	3	_	_	NE=B-COUNTRY|SpaceAfter=No
+4	民	民	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 161
+# text = 胡䠶夫河伯
+1	胡	胡	NOUN	_	_	1	_	_	SpaceAfter=No
+2	䠶	䠶	NOUN	_	_	2	_	_	SpaceAfter=No
+3	夫	夫	NOUN	_	_	3	_	_	SpaceAfter=No
+4	河	河	NOUN	_	_	4	_	_	SpaceAfter=No
+5	伯	伯	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 162
+# text = 而妻彼雒嬪
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	妻	妻	VERB	_	_	2	_	_	SpaceAfter=No
+3	彼	彼	PRON	_	_	3	_	_	SpaceAfter=No
+4	雒	雒	PROPN	_	_	4	_	_	NE=B-PLACE|SpaceAfter=No
+5	嬪	嬪	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 163
+# text = 馮珧利決
+1	馮	馮	VERB	_	_	1	_	_	SpaceAfter=No
+2	珧	珧	NOUN	_	_	2	_	_	SpaceAfter=No
+3	利	利	NOUN	_	_	3	_	_	SpaceAfter=No
+4	決	決	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 164
+# text = 封狶是䠶
+1	封	封	VERB	_	_	1	_	_	SpaceAfter=No
+2	狶	狶	NOUN	_	_	2	_	_	SpaceAfter=No
+3	是	是	PRON	_	_	3	_	_	SpaceAfter=No
+4	䠶	䠶	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 165
+# text = 何獻蒸肉之膏
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	獻	獻	VERB	_	_	2	_	_	SpaceAfter=No
+3	蒸	蒸	VERB	_	_	3	_	_	SpaceAfter=No
+4	肉	肉	NOUN	_	_	4	_	_	SpaceAfter=No
+5	之	之	SCONJ	_	_	5	_	_	SpaceAfter=No
+6	膏	膏	VERB	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 166
+# text = 而后帝不若
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	后	后	NOUN	_	_	2	_	_	SpaceAfter=No
+3	帝	帝	NOUN	_	_	3	_	_	SpaceAfter=No
+4	不	不	ADV	_	_	4	_	_	SpaceAfter=No
+5	若	若	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 167
+# text = 浞娶純狐
+1	浞	浞	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	娶	娶	VERB	_	_	2	_	_	SpaceAfter=No
+3	純	純	VERB	_	_	3	_	_	SpaceAfter=No
+4	狐	狐	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 168
+# text = 眩妻爰謀
+1	眩	眩	VERB	_	_	1	_	_	SpaceAfter=No
+2	妻	妻	NOUN	_	_	2	_	_	SpaceAfter=No
+3	爰	爰	PRON	_	_	3	_	_	SpaceAfter=No
+4	謀	謀	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 169
+# text = 何羿之䠶革
+1	何	何	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	羿	羿	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	䠶	䠶	NOUN	_	_	4	_	_	SpaceAfter=No
+5	革	革	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 170
+# text = 而交吞揆之
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	交	交	ADV	_	_	2	_	_	SpaceAfter=No
+3	吞	吞	VERB	_	_	3	_	_	SpaceAfter=No
+4	揆	揆	VERB	_	_	4	_	_	SpaceAfter=No
+5	之	之	PRON	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 171
+# text = 阻窮西征
+1	阻	阻	VERB	_	_	1	_	_	SpaceAfter=No
+2	窮	窮	VERB	_	_	2	_	_	SpaceAfter=No
+3	西	西	NOUN	_	_	3	_	_	SpaceAfter=No
+4	征	征	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 172
+# text = 巖何越焉
+1	巖	巖	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	越	越	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 173
+# text = 化爲黃熊
+1	化	化	VERB	_	_	1	_	_	SpaceAfter=No
+2	爲	爲	VERB	_	_	2	_	_	SpaceAfter=No
+3	黃	黃	NOUN	_	_	3	_	_	SpaceAfter=No
+4	熊	熊	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 174
+# text = 巫何活焉
+1	巫	巫	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	活	活	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 175
+# text = 咸播秬黍
+1	咸	咸	ADV	_	_	1	_	_	SpaceAfter=No
+2	播	播	VERB	_	_	2	_	_	SpaceAfter=No
+3	秬	秬	NOUN	_	_	3	_	_	SpaceAfter=No
+4	黍	黍	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 176
+# text = 莆雚是營
+1	莆	莆	NOUN	_	_	1	_	_	SpaceAfter=No
+2	雚	雚	NOUN	_	_	2	_	_	SpaceAfter=No
+3	是	是	PRON	_	_	3	_	_	SpaceAfter=No
+4	營	營	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 177
+# text = 何由并投
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	由	由	ADP	_	_	2	_	_	SpaceAfter=No
+3	并	并	ADV	_	_	3	_	_	SpaceAfter=No
+4	投	投	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 178
+# text = 而鮌疾脩盈
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	鮌	鮌	NOUN	_	_	2	_	_	SpaceAfter=No
+3	疾	疾	NOUN	_	_	3	_	_	SpaceAfter=No
+4	脩	脩	VERB	_	_	4	_	_	SpaceAfter=No
+5	盈	盈	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 179
+# text = 白蜺嬰茀
+1	白	白	NOUN	_	_	1	_	_	SpaceAfter=No
+2	蜺	蜺	NOUN	_	_	2	_	_	SpaceAfter=No
+3	嬰	嬰	NOUN	_	_	3	_	_	SpaceAfter=No
+4	茀	茀	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 180
+# text = 胡爲此堂
+1	胡	胡	ADV	_	_	1	_	_	SpaceAfter=No
+2	爲	爲	VERB	_	_	2	_	_	SpaceAfter=No
+3	此	此	PRON	_	_	3	_	_	SpaceAfter=No
+4	堂	堂	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 181
+# text = 安得夫良藥
+1	安	安	ADV	_	_	1	_	_	SpaceAfter=No
+2	得	得	VERB	_	_	2	_	_	SpaceAfter=No
+3	夫	夫	PRON	_	_	3	_	_	SpaceAfter=No
+4	良	良	VERB	_	_	4	_	_	SpaceAfter=No
+5	藥	藥	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 182
+# text = 不能固臧
+1	不	不	ADV	_	_	1	_	_	SpaceAfter=No
+2	能	能	AUX	_	_	2	_	_	SpaceAfter=No
+3	固	固	VERB	_	_	3	_	_	SpaceAfter=No
+4	臧	臧	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 183
+# text = 天式從橫
+1	天	天	NOUN	_	_	1	_	_	SpaceAfter=No
+2	式	式	NOUN	_	_	2	_	_	SpaceAfter=No
+3	從	從	VERB	_	_	3	_	_	SpaceAfter=No
+4	橫	橫	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 184
+# text = 陽離爰死之
+1	陽	陽	NOUN	_	_	1	_	_	SpaceAfter=No
+2	離	離	VERB	_	_	2	_	_	SpaceAfter=No
+3	爰	爰	PRON	_	_	3	_	_	SpaceAfter=No
+4	死	死	VERB	_	_	4	_	_	SpaceAfter=No
+5	之	之	PRON	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 185
+# text = 釋舟陵行
+1	釋	釋	VERB	_	_	1	_	_	SpaceAfter=No
+2	舟	舟	NOUN	_	_	2	_	_	SpaceAfter=No
+3	陵	陵	NOUN	_	_	3	_	_	SpaceAfter=No
+4	行	行	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 186
+# text = 何以遷之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	遷	遷	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 187
+# text = 惟澆在戸
+1	惟	惟	ADV	_	_	1	_	_	SpaceAfter=No
+2	澆	澆	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	在	在	VERB	_	_	3	_	_	SpaceAfter=No
+4	戸	戸	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 188
+# text = 何求于嫂
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	求	求	VERB	_	_	2	_	_	SpaceAfter=No
+3	于	于	ADP	_	_	3	_	_	SpaceAfter=No
+4	嫂	嫂	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 189
+# text = 何少康逐犬
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	少	少	VERB	_	_	2	_	_	SpaceAfter=No
+3	康	康	VERB	_	_	3	_	_	SpaceAfter=No
+4	逐	逐	VERB	_	_	4	_	_	SpaceAfter=No
+5	犬	犬	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 190
+# text = 而顚隕厥首
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	顚	顚	VERB	_	_	2	_	_	SpaceAfter=No
+3	隕	隕	VERB	_	_	3	_	_	SpaceAfter=No
+4	厥	厥	PRON	_	_	4	_	_	SpaceAfter=No
+5	首	首	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 191
+# text = 女歧縫裳
+1	女	女	PRON	_	_	1	_	_	SpaceAfter=No
+2	歧	歧	NOUN	_	_	2	_	_	SpaceAfter=No
+3	縫	縫	NOUN	_	_	3	_	_	SpaceAfter=No
+4	裳	裳	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 192
+# text = 而館同爰止
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	館	館	VERB	_	_	2	_	_	SpaceAfter=No
+3	同	同	VERB	_	_	3	_	_	SpaceAfter=No
+4	爰	爰	PRON	_	_	4	_	_	SpaceAfter=No
+5	止	止	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 193
+# text = 何顚易厥首
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	顚	顚	VERB	_	_	2	_	_	SpaceAfter=No
+3	易	易	VERB	_	_	3	_	_	SpaceAfter=No
+4	厥	厥	PRON	_	_	4	_	_	SpaceAfter=No
+5	首	首	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 194
+# text = 而親以逢殆
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	親	親	VERB	_	_	2	_	_	SpaceAfter=No
+3	以	以	VERB	_	_	3	_	_	SpaceAfter=No
+4	逢	逢	VERB	_	_	4	_	_	SpaceAfter=No
+5	殆	殆	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 195
+# text = 湯謀易旅
+1	湯	湯	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	謀	謀	VERB	_	_	2	_	_	SpaceAfter=No
+3	易	易	VERB	_	_	3	_	_	SpaceAfter=No
+4	旅	旅	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 196
+# text = 何以厚之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	厚	厚	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 197
+# text = 覆舟斟㝷
+1	覆	覆	VERB	_	_	1	_	_	SpaceAfter=No
+2	舟	舟	NOUN	_	_	2	_	_	SpaceAfter=No
+3	斟	斟	VERB	_	_	3	_	_	SpaceAfter=No
+4	㝷	㝷	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 198
+# text = 何道取之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	道	道	NOUN	_	_	2	_	_	SpaceAfter=No
+3	取	取	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 199
+# text = 桀伐蒙山
+1	桀	桀	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	伐	伐	VERB	_	_	2	_	_	SpaceAfter=No
+3	蒙	蒙	VERB	_	_	3	_	_	SpaceAfter=No
+4	山	山	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 200
+# text = 何所得焉
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	所	所	PART	_	_	2	_	_	SpaceAfter=No
+3	得	得	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 201
+# text = 妺嬉何肆
+1	妺	妺	NOUN	_	_	1	_	_	SpaceAfter=No
+2	嬉	嬉	VERB	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	肆	肆	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 202
+# text = 湯何殛焉
+1	湯	湯	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	殛	殛	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 203
+# text = 舜閔在家
+1	舜	舜	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	閔	閔	PROPN	_	_	2	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+3	在	在	VERB	_	_	3	_	_	SpaceAfter=No
+4	家	家	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 204
+# text = 父何以鱞
+1	父	父	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	以	以	VERB	_	_	3	_	_	SpaceAfter=No
+4	鱞	鱞	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 205
+# text = 堯不姚告
+1	堯	堯	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	不	不	ADV	_	_	2	_	_	SpaceAfter=No
+3	姚	姚	PROPN	_	_	3	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+4	告	告	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 206
+# text = 二女何親
+1	二	二	NUM	_	_	1	_	_	SpaceAfter=No
+2	女	女	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	親	親	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 207
+# text = 厥萌在初
+1	厥	厥	PRON	_	_	1	_	_	SpaceAfter=No
+2	萌	萌	NOUN	_	_	2	_	_	SpaceAfter=No
+3	在	在	VERB	_	_	3	_	_	SpaceAfter=No
+4	初	初	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 208
+# text = 何所億焉
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	所	所	PART	_	_	2	_	_	SpaceAfter=No
+3	億	億	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 209
+# text = 璜臺十成
+1	璜	璜	NOUN	_	_	1	_	_	SpaceAfter=No
+2	臺	臺	NOUN	_	_	2	_	_	SpaceAfter=No
+3	十	十	NUM	_	_	3	_	_	SpaceAfter=No
+4	成	成	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 210
+# text = 誰所極焉
+1	誰	誰	PRON	_	_	1	_	_	SpaceAfter=No
+2	所	所	PART	_	_	2	_	_	SpaceAfter=No
+3	極	極	VERB	_	_	3	_	_	SpaceAfter=No
+4	焉	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 211
+# text = 登立爲帝
+1	登	登	VERB	_	_	1	_	_	SpaceAfter=No
+2	立	立	VERB	_	_	2	_	_	SpaceAfter=No
+3	爲	爲	VERB	_	_	3	_	_	SpaceAfter=No
+4	帝	帝	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 212
+# text = 孰道尚之
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	道	道	VERB	_	_	2	_	_	SpaceAfter=No
+3	尚	尚	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 213
+# text = 女媧有體
+1	女	女	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	媧	媧	PROPN	_	_	2	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+3	有	有	VERB	_	_	3	_	_	SpaceAfter=No
+4	體	體	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 214
+# text = 孰制匠之
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	制	制	VERB	_	_	2	_	_	SpaceAfter=No
+3	匠	匠	NOUN	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 215
+# text = 舜服厥弟
+1	舜	舜	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	服	服	VERB	_	_	2	_	_	SpaceAfter=No
+3	厥	厥	PRON	_	_	3	_	_	SpaceAfter=No
+4	弟	弟	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 216
+# text = 終然爲害
+1	終	終	VERB	_	_	1	_	_	SpaceAfter=No
+2	然	然	PART	_	_	2	_	_	SpaceAfter=No
+3	爲	爲	VERB	_	_	3	_	_	SpaceAfter=No
+4	害	害	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 217
+# text = 何肆犬體
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	肆	肆	VERB	_	_	2	_	_	SpaceAfter=No
+3	犬	犬	NOUN	_	_	3	_	_	SpaceAfter=No
+4	體	體	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 218
+# text = 而厥身不危敗
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	厥	厥	PRON	_	_	2	_	_	SpaceAfter=No
+3	身	身	NOUN	_	_	3	_	_	SpaceAfter=No
+4	不	不	ADV	_	_	4	_	_	SpaceAfter=No
+5	危	危	VERB	_	_	5	_	_	SpaceAfter=No
+6	敗	敗	VERB	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 219
+# text = 吳獲迄古
+1	吳	吳	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	獲	獲	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	迄	迄	VERB	_	_	3	_	_	SpaceAfter=No
+4	古	古	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 220
+# text = 南嶽是止
+1	南	南	NOUN	_	_	1	_	_	SpaceAfter=No
+2	嶽	嶽	NOUN	_	_	2	_	_	SpaceAfter=No
+3	是	是	PRON	_	_	3	_	_	SpaceAfter=No
+4	止	止	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 221
+# text = 孰期去斯
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	期	期	VERB	_	_	2	_	_	SpaceAfter=No
+3	去	去	VERB	_	_	3	_	_	SpaceAfter=No
+4	斯	斯	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 222
+# text = 得兩男子
+1	得	得	VERB	_	_	1	_	_	SpaceAfter=No
+2	兩	兩	NOUN	_	_	2	_	_	SpaceAfter=No
+3	男	男	NOUN	_	_	3	_	_	SpaceAfter=No
+4	子	子	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 223
+# text = 說簡狄在臺
+1	說	說	VERB	_	_	1	_	_	SpaceAfter=No
+2	簡	簡	VERB	_	_	2	_	_	SpaceAfter=No
+3	狄	狄	NOUN	_	_	3	_	_	SpaceAfter=No
+4	在	在	VERB	_	_	4	_	_	SpaceAfter=No
+5	臺	臺	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 224
+# text = 嚳何宜
+1	嚳	嚳	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	宜	宜	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 225
+# text = 玄鳥致貽
+1	玄	玄	NOUN	_	_	1	_	_	SpaceAfter=No
+2	鳥	鳥	NOUN	_	_	2	_	_	SpaceAfter=No
+3	致	致	VERB	_	_	3	_	_	SpaceAfter=No
+4	貽	貽	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 226
+# text = 女何喜
+1	女	女	PRON	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	喜	喜	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 227
+# text = 該秉季德
+1	該	該	VERB	_	_	1	_	_	SpaceAfter=No
+2	秉	秉	VERB	_	_	2	_	_	SpaceAfter=No
+3	季	季	PROPN	_	_	3	_	_	NE=B-SURNAME|SpaceAfter=No
+4	德	德	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 228
+# text = 厥父是臧
+1	厥	厥	PRON	_	_	1	_	_	SpaceAfter=No
+2	父	父	NOUN	_	_	2	_	_	SpaceAfter=No
+3	是	是	PRON	_	_	3	_	_	SpaceAfter=No
+4	臧	臧	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 229
+# text = 胡終弊于有扈
+1	胡	胡	ADV	_	_	1	_	_	SpaceAfter=No
+2	終	終	VERB	_	_	2	_	_	SpaceAfter=No
+3	弊	弊	VERB	_	_	3	_	_	SpaceAfter=No
+4	于	于	ADP	_	_	4	_	_	SpaceAfter=No
+5	有	有	VERB	_	_	5	_	_	SpaceAfter=No
+6	扈	扈	VERB	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 230
+# text = 牧夫牛羊
+1	牧	牧	VERB	_	_	1	_	_	SpaceAfter=No
+2	夫	夫	PRON	_	_	2	_	_	SpaceAfter=No
+3	牛	牛	NOUN	_	_	3	_	_	SpaceAfter=No
+4	羊	羊	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 231
+# text = 干恊時舞
+1	干	干	NOUN	_	_	1	_	_	SpaceAfter=No
+2	恊	恊	VERB	_	_	2	_	_	SpaceAfter=No
+3	時	時	NOUN	_	_	3	_	_	SpaceAfter=No
+4	舞	舞	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 232
+# text = 何以懷之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	懷	懷	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 233
+# text = 平脅曼膚
+1	平	平	VERB	_	_	1	_	_	SpaceAfter=No
+2	脅	脅	NOUN	_	_	2	_	_	SpaceAfter=No
+3	曼	曼	VERB	_	_	3	_	_	SpaceAfter=No
+4	膚	膚	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 234
+# text = 何以肥之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	肥	肥	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 235
+# text = 有扈牧竪
+1	有	有	VERB	_	_	1	_	_	SpaceAfter=No
+2	扈	扈	PROPN	_	_	2	_	_	NE=B-SURNAME|SpaceAfter=No
+3	牧	牧	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	竪	竪	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 236
+# text = 云何而逢
+1	云	云	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	而	而	CCONJ	_	_	3	_	_	SpaceAfter=No
+4	逢	逢	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 237
+# text = 擊牀先出
+1	擊	擊	VERB	_	_	1	_	_	SpaceAfter=No
+2	牀	牀	NOUN	_	_	2	_	_	SpaceAfter=No
+3	先	先	NOUN	_	_	3	_	_	SpaceAfter=No
+4	出	出	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 238
+# text = 其命何從
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	命	命	NOUN	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	從	從	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 239
+# text = 恒秉季德
+1	恒	恒	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	秉	秉	VERB	_	_	2	_	_	SpaceAfter=No
+3	季	季	PROPN	_	_	3	_	_	NE=B-SURNAME|SpaceAfter=No
+4	德	德	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 240
+# text = 焉得夫朴牛
+1	焉	焉	ADV	_	_	1	_	_	SpaceAfter=No
+2	得	得	VERB	_	_	2	_	_	SpaceAfter=No
+3	夫	夫	NOUN	_	_	3	_	_	SpaceAfter=No
+4	朴	朴	VERB	_	_	4	_	_	SpaceAfter=No
+5	牛	牛	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 241
+# text = 何往營班禄
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	往	往	VERB	_	_	2	_	_	SpaceAfter=No
+3	營	營	VERB	_	_	3	_	_	SpaceAfter=No
+4	班	班	VERB	_	_	4	_	_	SpaceAfter=No
+5	禄	禄	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 242
+# text = 不但還來
+1	不	不	ADV	_	_	1	_	_	SpaceAfter=No
+2	但	但	ADV	_	_	2	_	_	SpaceAfter=No
+3	還	還	VERB	_	_	3	_	_	SpaceAfter=No
+4	來	來	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 243
+# text = 昏微遵迹
+1	昏	昏	NOUN	_	_	1	_	_	SpaceAfter=No
+2	微	微	VERB	_	_	2	_	_	SpaceAfter=No
+3	遵	遵	VERB	_	_	3	_	_	SpaceAfter=No
+4	迹	迹	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 244
+# text = 有狄不寧
+1	有	有	VERB	_	_	1	_	_	SpaceAfter=No
+2	狄	狄	NOUN	_	_	2	_	_	SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	寧	寧	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 245
+# text = 何繁鳥萃棘
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	繁	繁	VERB	_	_	2	_	_	SpaceAfter=No
+3	鳥	鳥	NOUN	_	_	3	_	_	SpaceAfter=No
+4	萃	萃	VERB	_	_	4	_	_	SpaceAfter=No
+5	棘	棘	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 246
+# text = 負子肆情
+1	負	負	VERB	_	_	1	_	_	SpaceAfter=No
+2	子	子	NOUN	_	_	2	_	_	SpaceAfter=No
+3	肆	肆	VERB	_	_	3	_	_	SpaceAfter=No
+4	情	情	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 247
+# text = 眩弟並淫
+1	眩	眩	VERB	_	_	1	_	_	SpaceAfter=No
+2	弟	弟	NOUN	_	_	2	_	_	SpaceAfter=No
+3	並	並	ADV	_	_	3	_	_	SpaceAfter=No
+4	淫	淫	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 248
+# text = 危害厥兄
+1	危	危	VERB	_	_	1	_	_	SpaceAfter=No
+2	害	害	VERB	_	_	2	_	_	SpaceAfter=No
+3	厥	厥	PRON	_	_	3	_	_	SpaceAfter=No
+4	兄	兄	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 249
+# text = 何變化以作詐
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	變	變	VERB	_	_	2	_	_	SpaceAfter=No
+3	化	化	VERB	_	_	3	_	_	SpaceAfter=No
+4	以	以	VERB	_	_	4	_	_	SpaceAfter=No
+5	作	作	VERB	_	_	5	_	_	SpaceAfter=No
+6	詐	詐	VERB	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 250
+# text = 後嗣而逢長
+1	後	後	NOUN	_	_	1	_	_	SpaceAfter=No
+2	嗣	嗣	NOUN	_	_	2	_	_	SpaceAfter=No
+3	而	而	CCONJ	_	_	3	_	_	SpaceAfter=No
+4	逢	逢	VERB	_	_	4	_	_	SpaceAfter=No
+5	長	長	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 251
+# text = 成湯東巡
+1	成	成	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	湯	湯	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	東	東	NOUN	_	_	3	_	_	SpaceAfter=No
+4	巡	巡	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 252
+# text = 有莘爰極
+1	有	有	VERB	_	_	1	_	_	SpaceAfter=No
+2	莘	莘	PROPN	_	_	2	_	_	NE=B-PLACE|SpaceAfter=No
+3	爰	爰	PRON	_	_	3	_	_	SpaceAfter=No
+4	極	極	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 253
+# text = 何乞彼小臣
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	乞	乞	VERB	_	_	2	_	_	SpaceAfter=No
+3	彼	彼	PRON	_	_	3	_	_	SpaceAfter=No
+4	小	小	VERB	_	_	4	_	_	SpaceAfter=No
+5	臣	臣	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 254
+# text = 而吉妃是得
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	吉	吉	VERB	_	_	2	_	_	SpaceAfter=No
+3	妃	妃	NOUN	_	_	3	_	_	SpaceAfter=No
+4	是	是	PRON	_	_	4	_	_	SpaceAfter=No
+5	得	得	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 255
+# text = 水濵之木
+1	水	水	NOUN	_	_	1	_	_	SpaceAfter=No
+2	濵	濵	NOUN	_	_	2	_	_	SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	木	木	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 256
+# text = 得彼小子
+1	得	得	VERB	_	_	1	_	_	SpaceAfter=No
+2	彼	彼	PRON	_	_	2	_	_	SpaceAfter=No
+3	小	小	NOUN	_	_	3	_	_	SpaceAfter=No
+4	子	子	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 257
+# text = 夫何惡之
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	惡	惡	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 258
+# text = 媵有莘之婦
+1	媵	媵	NOUN	_	_	1	_	_	SpaceAfter=No
+2	有	有	PROPN	_	_	2	_	_	NE=B-SURNAME|SpaceAfter=No
+3	莘	莘	PROPN	_	_	3	_	_	NE=I-SURNAME|SpaceAfter=No
+4	之	之	SCONJ	_	_	4	_	_	SpaceAfter=No
+5	婦	婦	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 259
+# text = 湯出重泉
+1	湯	湯	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	出	出	VERB	_	_	2	_	_	SpaceAfter=No
+3	重	重	VERB	_	_	3	_	_	SpaceAfter=No
+4	泉	泉	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 260
+# text = 夫何辠尤
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	辠	辠	VERB	_	_	3	_	_	SpaceAfter=No
+4	尤	尤	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 261
+# text = 不勝心伐帝
+1	不	不	ADV	_	_	1	_	_	SpaceAfter=No
+2	勝	勝	VERB	_	_	2	_	_	SpaceAfter=No
+3	心	心	NOUN	_	_	3	_	_	SpaceAfter=No
+4	伐	伐	VERB	_	_	4	_	_	SpaceAfter=No
+5	帝	帝	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 262
+# text = 夫誰使挑之
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	誰	誰	PRON	_	_	2	_	_	SpaceAfter=No
+3	使	使	VERB	_	_	3	_	_	SpaceAfter=No
+4	挑	挑	VERB	_	_	4	_	_	SpaceAfter=No
+5	之	之	PRON	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 263
+# text = 㑹􁆭爭盟
+1	㑹	㑹	VERB	_	_	1	_	_	SpaceAfter=No
+2	􁆭	􁆭	PUNCT	_	_	2	_	_	SpaceAfter=No
+3	爭	爭	VERB	_	_	3	_	_	SpaceAfter=No
+4	盟	盟	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 264
+# text = 何踐吾期
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	踐	踐	VERB	_	_	2	_	_	SpaceAfter=No
+3	吾	吾	PRON	_	_	3	_	_	SpaceAfter=No
+4	期	期	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 265
+# text = 蒼鳥羣飛
+1	蒼	蒼	VERB	_	_	1	_	_	SpaceAfter=No
+2	鳥	鳥	NOUN	_	_	2	_	_	SpaceAfter=No
+3	羣	羣	NOUN	_	_	3	_	_	SpaceAfter=No
+4	飛	飛	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 266
+# text = 孰使萃之
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	使	使	VERB	_	_	2	_	_	SpaceAfter=No
+3	萃	萃	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 267
+# text = 到擊紂躬
+1	到	到	VERB	_	_	1	_	_	SpaceAfter=No
+2	擊	擊	VERB	_	_	2	_	_	SpaceAfter=No
+3	紂	紂	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	躬	躬	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 268
+# text = 叔旦不嘉
+1	叔	叔	NOUN	_	_	1	_	_	SpaceAfter=No
+2	旦	旦	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	嘉	嘉	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 269
+# text = 何親揆發
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	親	親	VERB	_	_	2	_	_	SpaceAfter=No
+3	揆	揆	VERB	_	_	3	_	_	SpaceAfter=No
+4	發	發	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 270
+# text = 足周之命以咨嗟
+1	足	足	VERB	_	_	1	_	_	SpaceAfter=No
+2	周	周	PROPN	_	_	2	_	_	NE=B-COUNTRY|SpaceAfter=No
+3	之	之	SCONJ	_	_	3	_	_	SpaceAfter=No
+4	命	命	NOUN	_	_	4	_	_	SpaceAfter=No
+5	以	以	VERB	_	_	5	_	_	SpaceAfter=No
+6	咨	咨	INTJ	_	_	6	_	_	SpaceAfter=No
+7	嗟	嗟	INTJ	_	_	7	_	_	SpaceAfter=No
+
+# sent_id = 271
+# text = 授殷天下
+1	授	授	VERB	_	_	1	_	_	SpaceAfter=No
+2	殷	殷	PROPN	_	_	2	_	_	NE=B-COUNTRY|SpaceAfter=No
+3	天	天	NOUN	_	_	3	_	_	SpaceAfter=No
+4	下	下	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 272
+# text = 其位安施
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	位	位	NOUN	_	_	2	_	_	SpaceAfter=No
+3	安	安	ADV	_	_	3	_	_	SpaceAfter=No
+4	施	施	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 273
+# text = 反成乃亡
+1	反	反	VERB	_	_	1	_	_	SpaceAfter=No
+2	成	成	VERB	_	_	2	_	_	SpaceAfter=No
+3	乃	乃	ADV	_	_	3	_	_	SpaceAfter=No
+4	亡	亡	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 274
+# text = 其罪伊何
+1	其	其	PRON	_	_	1	_	_	SpaceAfter=No
+2	罪	罪	NOUN	_	_	2	_	_	SpaceAfter=No
+3	伊	伊	PROPN	_	_	3	_	_	NE=B-SURNAME|SpaceAfter=No
+4	何	何	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 275
+# text = 爭遣伐器
+1	爭	爭	VERB	_	_	1	_	_	SpaceAfter=No
+2	遣	遣	VERB	_	_	2	_	_	SpaceAfter=No
+3	伐	伐	VERB	_	_	3	_	_	SpaceAfter=No
+4	器	器	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 276
+# text = 何以行之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	行	行	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 277
+# text = 並驅擊翼
+1	並	並	ADV	_	_	1	_	_	SpaceAfter=No
+2	驅	驅	VERB	_	_	2	_	_	SpaceAfter=No
+3	擊	擊	VERB	_	_	3	_	_	SpaceAfter=No
+4	翼	翼	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 278
+# text = 何以將之
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	以	以	VERB	_	_	2	_	_	SpaceAfter=No
+3	將	將	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 279
+# text = 昭后成遊
+1	昭	昭	PROPN	_	_	1	_	_	NE=B-COURTESY_NAME|SpaceAfter=No
+2	后	后	NOUN	_	_	2	_	_	SpaceAfter=No
+3	成	成	VERB	_	_	3	_	_	SpaceAfter=No
+4	遊	遊	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 280
+# text = 南土爰厎
+1	南	南	NOUN	_	_	1	_	_	SpaceAfter=No
+2	土	土	NOUN	_	_	2	_	_	SpaceAfter=No
+3	爰	爰	PRON	_	_	3	_	_	SpaceAfter=No
+4	厎	厎	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 281
+# text = 厥利惟何
+1	厥	厥	PRON	_	_	1	_	_	SpaceAfter=No
+2	利	利	NOUN	_	_	2	_	_	SpaceAfter=No
+3	惟	惟	PRON	_	_	3	_	_	SpaceAfter=No
+4	何	何	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 282
+# text = 逢彼白雉
+1	逢	逢	VERB	_	_	1	_	_	SpaceAfter=No
+2	彼	彼	PRON	_	_	2	_	_	SpaceAfter=No
+3	白	白	VERB	_	_	3	_	_	SpaceAfter=No
+4	雉	雉	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 283
+# text = 穆王巧梅
+1	穆	穆	PROPN	_	_	1	_	_	NE=B-COURTESY_NAME|SpaceAfter=No
+2	王	王	NOUN	_	_	2	_	_	SpaceAfter=No
+3	巧	巧	VERB	_	_	3	_	_	SpaceAfter=No
+4	梅	梅	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 284
+# text = 夫何爲周流
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	爲	爲	ADP	_	_	3	_	_	SpaceAfter=No
+4	周	周	PROPN	_	_	4	_	_	NE=B-COUNTRY|SpaceAfter=No
+5	流	流	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 285
+# text = 環理天下
+1	環	環	VERB	_	_	1	_	_	SpaceAfter=No
+2	理	理	VERB	_	_	2	_	_	SpaceAfter=No
+3	天	天	NOUN	_	_	3	_	_	SpaceAfter=No
+4	下	下	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 286
+# text = 夫何索求
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	索	索	VERB	_	_	3	_	_	SpaceAfter=No
+4	求	求	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 287
+# text = 妖夫曵衒
+1	妖	妖	VERB	_	_	1	_	_	SpaceAfter=No
+2	夫	夫	NOUN	_	_	2	_	_	SpaceAfter=No
+3	曵	曵	VERB	_	_	3	_	_	SpaceAfter=No
+4	衒	衒	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 288
+# text = 何號于市
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	號	號	VERB	_	_	2	_	_	SpaceAfter=No
+3	于	于	ADP	_	_	3	_	_	SpaceAfter=No
+4	市	市	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 289
+# text = 周幽誰誅
+1	周	周	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	幽	幽	VERB	_	_	2	_	_	SpaceAfter=No
+3	誰	誰	PRON	_	_	3	_	_	SpaceAfter=No
+4	誅	誅	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 290
+# text = 焉得夫襃姒
+1	焉	焉	ADV	_	_	1	_	_	SpaceAfter=No
+2	得	得	VERB	_	_	2	_	_	SpaceAfter=No
+3	夫	夫	NOUN	_	_	3	_	_	SpaceAfter=No
+4	襃	襃	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+5	姒	姒	PROPN	_	_	5	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 291
+# text = 天命反側
+1	天	天	NOUN	_	_	1	_	_	SpaceAfter=No
+2	命	命	NOUN	_	_	2	_	_	SpaceAfter=No
+3	反	反	VERB	_	_	3	_	_	SpaceAfter=No
+4	側	側	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 292
+# text = 何罰何佑
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	罰	罰	VERB	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	佑	佑	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 293
+# text = 齊桓九㑹
+1	齊	齊	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	桓	桓	PROPN	_	_	2	_	_	NE=B-COURTESY_NAME|SpaceAfter=No
+3	九	九	NUM	_	_	3	_	_	SpaceAfter=No
+4	㑹	㑹	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 294
+# text = 卒然身殺
+1	卒	卒	VERB	_	_	1	_	_	SpaceAfter=No
+2	然	然	VERB	_	_	2	_	_	SpaceAfter=No
+3	身	身	NOUN	_	_	3	_	_	SpaceAfter=No
+4	殺	殺	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 295
+# text = 彼王紂之躬
+1	彼	彼	PRON	_	_	1	_	_	SpaceAfter=No
+2	王	王	PROPN	_	_	2	_	_	NE=B-SURNAME|SpaceAfter=No
+3	紂	紂	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	之	之	SCONJ	_	_	4	_	_	SpaceAfter=No
+5	躬	躬	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 296
+# text = 孰使亂惑
+1	孰	孰	PRON	_	_	1	_	_	SpaceAfter=No
+2	使	使	VERB	_	_	2	_	_	SpaceAfter=No
+3	亂	亂	VERB	_	_	3	_	_	SpaceAfter=No
+4	惑	惑	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 297
+# text = 何惡輔弼
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	惡	惡	VERB	_	_	2	_	_	SpaceAfter=No
+3	輔	輔	VERB	_	_	3	_	_	SpaceAfter=No
+4	弼	弼	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 298
+# text = 讒謟是服
+1	讒	讒	VERB	_	_	1	_	_	SpaceAfter=No
+2	謟	謟	VERB	_	_	2	_	_	SpaceAfter=No
+3	是	是	PRON	_	_	3	_	_	SpaceAfter=No
+4	服	服	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 299
+# text = 比干何逆
+1	比	比	PROPN	_	_	1	_	_	NE=B-COURTESY_NAME|SpaceAfter=No
+2	干	干	PROPN	_	_	2	_	_	NE=I-COURTESY_NAME|SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	逆	逆	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 300
+# text = 而抑沈之
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	抑	抑	VERB	_	_	2	_	_	SpaceAfter=No
+3	沈	沈	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 301
+# text = 雷開阿順
+1	雷	雷	NOUN	_	_	1	_	_	SpaceAfter=No
+2	開	開	VERB	_	_	2	_	_	SpaceAfter=No
+3	阿	阿	VERB	_	_	3	_	_	SpaceAfter=No
+4	順	順	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 302
+# text = 而賜封之
+1	而	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	賜	賜	VERB	_	_	2	_	_	SpaceAfter=No
+3	封	封	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 303
+# text = 何聖人之一德
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	聖	聖	NOUN	_	_	2	_	_	SpaceAfter=No
+3	人	人	NOUN	_	_	3	_	_	SpaceAfter=No
+4	之	之	SCONJ	_	_	4	_	_	SpaceAfter=No
+5	一	一	NUM	_	_	5	_	_	SpaceAfter=No
+6	德	德	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 304
+# text = 卒其異方
+1	卒	卒	VERB	_	_	1	_	_	SpaceAfter=No
+2	其	其	PRON	_	_	2	_	_	SpaceAfter=No
+3	異	異	VERB	_	_	3	_	_	SpaceAfter=No
+4	方	方	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 305
+# text = 梅伯受醢
+1	梅	梅	NOUN	_	_	1	_	_	SpaceAfter=No
+2	伯	伯	NOUN	_	_	2	_	_	SpaceAfter=No
+3	受	受	VERB	_	_	3	_	_	SpaceAfter=No
+4	醢	醢	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 306
+# text = 箕子詳狂
+1	箕	箕	PROPN	_	_	1	_	_	NE=B-COURTESY_NAME|SpaceAfter=No
+2	子	子	PROPN	_	_	2	_	_	NE=I-COURTESY_NAME|SpaceAfter=No
+3	詳	詳	VERB	_	_	3	_	_	SpaceAfter=No
+4	狂	狂	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 307
+# text = 稷維元子
+1	稷	稷	NOUN	_	_	1	_	_	SpaceAfter=No
+2	維	維	NOUN	_	_	2	_	_	SpaceAfter=No
+3	元	元	NOUN	_	_	3	_	_	SpaceAfter=No
+4	子	子	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 308
+# text = 帝何竺之
+1	帝	帝	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	竺	竺	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 309
+# text = 激何逢長之
+1	激	激	VERB	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	逢	逢	VERB	_	_	3	_	_	SpaceAfter=No
+4	長	長	VERB	_	_	4	_	_	SpaceAfter=No
+5	之	之	PRON	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 310
+# text = 伯昌号衰
+1	伯	伯	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	昌	昌	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	号	号	VERB	_	_	3	_	_	SpaceAfter=No
+4	衰	衰	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 311
+# text = 秉鞭作牧
+1	秉	秉	VERB	_	_	1	_	_	SpaceAfter=No
+2	鞭	鞭	NOUN	_	_	2	_	_	SpaceAfter=No
+3	作	作	VERB	_	_	3	_	_	SpaceAfter=No
+4	牧	牧	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 312
+# text = 何令徹彼歧社
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	令	令	VERB	_	_	2	_	_	SpaceAfter=No
+3	徹	徹	VERB	_	_	3	_	_	SpaceAfter=No
+4	彼	彼	PRON	_	_	4	_	_	SpaceAfter=No
+5	歧	歧	NOUN	_	_	5	_	_	SpaceAfter=No
+6	社	社	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 313
+# text = 命有殷國
+1	命	命	VERB	_	_	1	_	_	SpaceAfter=No
+2	有	有	VERB	_	_	2	_	_	SpaceAfter=No
+3	殷	殷	PROPN	_	_	3	_	_	NE=B-COUNTRY|SpaceAfter=No
+4	國	國	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 314
+# text = 遷藏就歧
+1	遷	遷	VERB	_	_	1	_	_	SpaceAfter=No
+2	藏	藏	NOUN	_	_	2	_	_	SpaceAfter=No
+3	就	就	VERB	_	_	3	_	_	SpaceAfter=No
+4	歧	歧	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 315
+# text = 何能依
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	能	能	AUX	_	_	2	_	_	SpaceAfter=No
+3	依	依	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 316
+# text = 殷有惑婦
+1	殷	殷	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	有	有	VERB	_	_	2	_	_	SpaceAfter=No
+3	惑	惑	VERB	_	_	3	_	_	SpaceAfter=No
+4	婦	婦	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 317
+# text = 何所譏
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	所	所	PART	_	_	2	_	_	SpaceAfter=No
+3	譏	譏	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 318
+# text = 受賜兹醢
+1	受	受	VERB	_	_	1	_	_	SpaceAfter=No
+2	賜	賜	VERB	_	_	2	_	_	SpaceAfter=No
+3	兹	兹	PRON	_	_	3	_	_	SpaceAfter=No
+4	醢	醢	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 319
+# text = 西伯上告
+1	西	西	NOUN	_	_	1	_	_	SpaceAfter=No
+2	伯	伯	NOUN	_	_	2	_	_	SpaceAfter=No
+3	上	上	NOUN	_	_	3	_	_	SpaceAfter=No
+4	告	告	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 320
+# text = 何親就上帝罰
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	親	親	VERB	_	_	2	_	_	SpaceAfter=No
+3	就	就	VERB	_	_	3	_	_	SpaceAfter=No
+4	上	上	NOUN	_	_	4	_	_	SpaceAfter=No
+5	帝	帝	NOUN	_	_	5	_	_	SpaceAfter=No
+6	罰	罰	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 321
+# text = 殷之命以不救
+1	殷	殷	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	之	之	SCONJ	_	_	2	_	_	SpaceAfter=No
+3	命	命	NOUN	_	_	3	_	_	SpaceAfter=No
+4	以	以	VERB	_	_	4	_	_	SpaceAfter=No
+5	不	不	ADV	_	_	5	_	_	SpaceAfter=No
+6	救	救	VERB	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 322
+# text = 師望在肆
+1	師	師	NOUN	_	_	1	_	_	SpaceAfter=No
+2	望	望	VERB	_	_	2	_	_	SpaceAfter=No
+3	在	在	VERB	_	_	3	_	_	SpaceAfter=No
+4	肆	肆	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 323
+# text = 昌何識
+1	昌	昌	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	識	識	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 324
+# text = 鼓刀揚聲
+1	鼓	鼓	VERB	_	_	1	_	_	SpaceAfter=No
+2	刀	刀	NOUN	_	_	2	_	_	SpaceAfter=No
+3	揚	揚	VERB	_	_	3	_	_	SpaceAfter=No
+4	聲	聲	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 325
+# text = 后何喜
+1	后	后	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	喜	喜	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 326
+# text = 武發殺殷
+1	武	武	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	發	發	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	殺	殺	VERB	_	_	3	_	_	SpaceAfter=No
+4	殷	殷	PROPN	_	_	4	_	_	NE=B-COUNTRY|SpaceAfter=No
+
+# sent_id = 327
+# text = 何所悒
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	所	所	PART	_	_	2	_	_	SpaceAfter=No
+3	悒	悒	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 328
+# text = 載尸集戰
+1	載	載	VERB	_	_	1	_	_	SpaceAfter=No
+2	尸	尸	NOUN	_	_	2	_	_	SpaceAfter=No
+3	集	集	VERB	_	_	3	_	_	SpaceAfter=No
+4	戰	戰	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 329
+# text = 何所急
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	所	所	PART	_	_	2	_	_	SpaceAfter=No
+3	急	急	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 330
+# text = 伯林雉經
+1	伯	伯	NOUN	_	_	1	_	_	SpaceAfter=No
+2	林	林	NOUN	_	_	2	_	_	SpaceAfter=No
+3	雉	雉	NOUN	_	_	3	_	_	SpaceAfter=No
+4	經	經	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 331
+# text = 維其何故
+1	維	維	PRON	_	_	1	_	_	SpaceAfter=No
+2	其	其	PART	_	_	2	_	_	SpaceAfter=No
+3	何	何	PRON	_	_	3	_	_	SpaceAfter=No
+4	故	故	X	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 332
+# text = 何感天抑墬
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	感	感	VERB	_	_	2	_	_	SpaceAfter=No
+3	天	天	NOUN	_	_	3	_	_	SpaceAfter=No
+4	抑	抑	VERB	_	_	4	_	_	SpaceAfter=No
+5	墬	墬	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 333
+# text = 夫誰畏懼
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	誰	誰	PRON	_	_	2	_	_	SpaceAfter=No
+3	畏	畏	VERB	_	_	3	_	_	SpaceAfter=No
+4	懼	懼	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 334
+# text = 皇天集命
+1	皇	皇	VERB	_	_	1	_	_	SpaceAfter=No
+2	天	天	NOUN	_	_	2	_	_	SpaceAfter=No
+3	集	集	VERB	_	_	3	_	_	SpaceAfter=No
+4	命	命	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 335
+# text = 惟何戒之
+1	惟	惟	PRON	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	戒	戒	VERB	_	_	3	_	_	SpaceAfter=No
+4	之	之	PRON	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 336
+# text = 受禮天下
+1	受	受	VERB	_	_	1	_	_	SpaceAfter=No
+2	禮	禮	NOUN	_	_	2	_	_	SpaceAfter=No
+3	天	天	NOUN	_	_	3	_	_	SpaceAfter=No
+4	下	下	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 337
+# text = 又使至代之
+1	又	又	ADV	_	_	1	_	_	SpaceAfter=No
+2	使	使	VERB	_	_	2	_	_	SpaceAfter=No
+3	至	至	VERB	_	_	3	_	_	SpaceAfter=No
+4	代	代	VERB	_	_	4	_	_	SpaceAfter=No
+5	之	之	PRON	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 338
+# text = 初湯臣摯
+1	初	初	NOUN	_	_	1	_	_	SpaceAfter=No
+2	湯	湯	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	臣	臣	NOUN	_	_	3	_	_	SpaceAfter=No
+4	摯	摯	PROPN	_	_	4	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 339
+# text = 後兹承輔
+1	後	後	VERB	_	_	1	_	_	SpaceAfter=No
+2	兹	兹	PRON	_	_	2	_	_	SpaceAfter=No
+3	承	承	VERB	_	_	3	_	_	SpaceAfter=No
+4	輔	輔	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 340
+# text = 何卒官湯
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	卒	卒	VERB	_	_	2	_	_	SpaceAfter=No
+3	官	官	NOUN	_	_	3	_	_	SpaceAfter=No
+4	湯	湯	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 341
+# text = 尊食宗緒
+1	尊	尊	VERB	_	_	1	_	_	SpaceAfter=No
+2	食	食	VERB	_	_	2	_	_	SpaceAfter=No
+3	宗	宗	NOUN	_	_	3	_	_	SpaceAfter=No
+4	緒	緒	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 342
+# text = 勲闔夢生
+1	勲	勲	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	闔	闔	VERB	_	_	2	_	_	SpaceAfter=No
+3	夢	夢	NOUN	_	_	3	_	_	SpaceAfter=No
+4	生	生	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 343
+# text = 少離散亡
+1	少	少	VERB	_	_	1	_	_	SpaceAfter=No
+2	離	離	VERB	_	_	2	_	_	SpaceAfter=No
+3	散	散	VERB	_	_	3	_	_	SpaceAfter=No
+4	亡	亡	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 344
+# text = 何壯武厲
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	壯	壯	VERB	_	_	2	_	_	SpaceAfter=No
+3	武	武	VERB	_	_	3	_	_	SpaceAfter=No
+4	厲	厲	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 345
+# text = 能流厥嚴
+1	能	能	AUX	_	_	1	_	_	SpaceAfter=No
+2	流	流	VERB	_	_	2	_	_	SpaceAfter=No
+3	厥	厥	PRON	_	_	3	_	_	SpaceAfter=No
+4	嚴	嚴	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 346
+# text = 彭鏗斟雉
+1	彭	彭	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	鏗	鏗	VERB	_	_	2	_	_	SpaceAfter=No
+3	斟	斟	VERB	_	_	3	_	_	SpaceAfter=No
+4	雉	雉	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 347
+# text = 帝何饗
+1	帝	帝	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	饗	饗	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 348
+# text = 受壽永多
+1	受	受	VERB	_	_	1	_	_	SpaceAfter=No
+2	壽	壽	VERB	_	_	2	_	_	SpaceAfter=No
+3	永	永	VERB	_	_	3	_	_	SpaceAfter=No
+4	多	多	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 349
+# text = 夫何乆長
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	乆	乆	NOUN	_	_	3	_	_	SpaceAfter=No
+4	長	長	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 350
+# text = 中央共牧
+1	中	中	NOUN	_	_	1	_	_	SpaceAfter=No
+2	央	央	NOUN	_	_	2	_	_	SpaceAfter=No
+3	共	共	VERB	_	_	3	_	_	SpaceAfter=No
+4	牧	牧	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 351
+# text = 后何怒
+1	后	后	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	怒	怒	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 352
+# text = 􁑌蛾微命
+1	􁑌	􁑌	PUNCT	_	_	1	_	_	SpaceAfter=No
+2	蛾	蛾	NOUN	_	_	2	_	_	SpaceAfter=No
+3	微	微	VERB	_	_	3	_	_	SpaceAfter=No
+4	命	命	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 353
+# text = 力何固
+1	力	力	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	固	固	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 354
+# text = 驚女采薇
+1	驚	驚	VERB	_	_	1	_	_	SpaceAfter=No
+2	女	女	NOUN	_	_	2	_	_	SpaceAfter=No
+3	采	采	VERB	_	_	3	_	_	SpaceAfter=No
+4	薇	薇	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 355
+# text = 鹿何祐
+1	鹿	鹿	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	祐	祐	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 356
+# text = 北至回水
+1	北	北	NOUN	_	_	1	_	_	SpaceAfter=No
+2	至	至	VERB	_	_	2	_	_	SpaceAfter=No
+3	回	回	VERB	_	_	3	_	_	SpaceAfter=No
+4	水	水	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 357
+# text = 萃何喜
+1	萃	萃	VERB	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	喜	喜	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 358
+# text = 兄有噬犬
+1	兄	兄	NOUN	_	_	1	_	_	SpaceAfter=No
+2	有	有	VERB	_	_	2	_	_	SpaceAfter=No
+3	噬	噬	VERB	_	_	3	_	_	SpaceAfter=No
+4	犬	犬	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 359
+# text = 弟何欲
+1	弟	弟	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	欲	欲	AUX	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 360
+# text = 易之以百兩
+1	易	易	VERB	_	_	1	_	_	SpaceAfter=No
+2	之	之	PRON	_	_	2	_	_	SpaceAfter=No
+3	以	以	VERB	_	_	3	_	_	SpaceAfter=No
+4	百	百	NUM	_	_	4	_	_	SpaceAfter=No
+5	兩	兩	NOUN	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 361
+# text = 卒無禄
+1	卒	卒	VERB	_	_	1	_	_	SpaceAfter=No
+2	無	無	VERB	_	_	2	_	_	SpaceAfter=No
+3	禄	禄	NOUN	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 362
+# text = 薄暮雷電
+1	薄	薄	VERB	_	_	1	_	_	SpaceAfter=No
+2	暮	暮	NOUN	_	_	2	_	_	SpaceAfter=No
+3	雷	雷	NOUN	_	_	3	_	_	SpaceAfter=No
+4	電	電	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 363
+# text = 歸何憂
+1	歸	歸	VERB	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	憂	憂	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 364
+# text = 厥嚴不奉
+1	厥	厥	PRON	_	_	1	_	_	SpaceAfter=No
+2	嚴	嚴	VERB	_	_	2	_	_	SpaceAfter=No
+3	不	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	奉	奉	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 365
+# text = 帝何求
+1	帝	帝	NOUN	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	求	求	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 366
+# text = 伏匿穴處
+1	伏	伏	VERB	_	_	1	_	_	SpaceAfter=No
+2	匿	匿	VERB	_	_	2	_	_	SpaceAfter=No
+3	穴	穴	NOUN	_	_	3	_	_	SpaceAfter=No
+4	處	處	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 367
+# text = 爰何云
+1	爰	爰	PRON	_	_	1	_	_	SpaceAfter=No
+2	何	何	PRON	_	_	2	_	_	SpaceAfter=No
+3	云	云	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 368
+# text = 荆勲作師
+1	荆	荆	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	勲	勲	NOUN	_	_	2	_	_	SpaceAfter=No
+3	作	作	VERB	_	_	3	_	_	SpaceAfter=No
+4	師	師	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 369
+# text = 夫何長
+1	夫	夫	PART	_	_	1	_	_	SpaceAfter=No
+2	何	何	ADV	_	_	2	_	_	SpaceAfter=No
+3	長	長	VERB	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 370
+# text = 悟過改更
+1	悟	悟	VERB	_	_	1	_	_	SpaceAfter=No
+2	過	過	NOUN	_	_	2	_	_	SpaceAfter=No
+3	改	改	VERB	_	_	3	_	_	SpaceAfter=No
+4	更	更	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 371
+# text = 我又何言
+1	我	我	PRON	_	_	1	_	_	SpaceAfter=No
+2	又	又	ADV	_	_	2	_	_	SpaceAfter=No
+3	何	何	ADV	_	_	3	_	_	SpaceAfter=No
+4	言	言	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 372
+# text = 吴光爭國
+1	吴	吴	PROPN	_	_	1	_	_	NE=B-COUNTRY|SpaceAfter=No
+2	光	光	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+3	爭	爭	VERB	_	_	3	_	_	SpaceAfter=No
+4	國	國	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 373
+# text = 乆余是勝
+1	乆	乆	NOUN	_	_	1	_	_	SpaceAfter=No
+2	余	余	PRON	_	_	2	_	_	SpaceAfter=No
+3	是	是	PRON	_	_	3	_	_	SpaceAfter=No
+4	勝	勝	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 374
+# text = 何環穿自閭社丘陵
+1	何	何	ADV	_	_	1	_	_	SpaceAfter=No
+2	環	環	VERB	_	_	2	_	_	SpaceAfter=No
+3	穿	穿	VERB	_	_	3	_	_	SpaceAfter=No
+4	自	自	ADP	_	_	4	_	_	SpaceAfter=No
+5	閭	閭	NOUN	_	_	5	_	_	SpaceAfter=No
+6	社	社	NOUN	_	_	6	_	_	SpaceAfter=No
+7	丘	丘	PROPN	_	_	7	_	_	NE=B-SURNAME|SpaceAfter=No
+8	陵	陵	PROPN	_	_	8	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 375
+# text = 爰出子文
+1	爰	爰	PRON	_	_	1	_	_	SpaceAfter=No
+2	出	出	VERB	_	_	2	_	_	SpaceAfter=No
+3	子	子	PROPN	_	_	3	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+4	文	文	PROPN	_	_	4	_	_	NE=I-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 376
+# text = 吾告堵敖以不長
+1	吾	吾	PRON	_	_	1	_	_	SpaceAfter=No
+2	告	告	VERB	_	_	2	_	_	SpaceAfter=No
+3	堵	堵	NOUN	_	_	3	_	_	SpaceAfter=No
+4	敖	敖	VERB	_	_	4	_	_	SpaceAfter=No
+5	以	以	VERB	_	_	5	_	_	SpaceAfter=No
+6	不	不	ADV	_	_	6	_	_	SpaceAfter=No
+7	長	長	VERB	_	_	7	_	_	SpaceAfter=No
+
+# sent_id = 377
+# text = 何試上自予
+1	何	何	PRON	_	_	1	_	_	SpaceAfter=No
+2	試	試	VERB	_	_	2	_	_	SpaceAfter=No
+3	上	上	NOUN	_	_	3	_	_	SpaceAfter=No
+4	自	自	ADP	_	_	4	_	_	SpaceAfter=No
+5	予	予	PRON	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 378
+# text = 忠名彌彰
+1	忠	忠	VERB	_	_	1	_	_	SpaceAfter=No
+2	名	名	NOUN	_	_	2	_	_	SpaceAfter=No
+3	彌	彌	ADV	_	_	3	_	_	SpaceAfter=No
+4	彰	彰	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 379
+# text = 叙曰
+1	叙	叙	VERB	_	_	1	_	_	SpaceAfter=No
+2	曰	曰	VERB	_	_	2	_	_	SpaceAfter=No
+
+# sent_id = 380
+# text = 昔屈原所作
+1	昔	昔	NOUN	_	_	1	_	_	SpaceAfter=No
+2	屈	屈	VERB	_	_	2	_	_	SpaceAfter=No
+3	原	原	NOUN	_	_	3	_	_	SpaceAfter=No
+4	所	所	PART	_	_	4	_	_	SpaceAfter=No
+5	作	作	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 381
+# text = 凡二十五篇世
+1	凡	凡	VERB	_	_	1	_	_	SpaceAfter=No
+2	二	二	NUM	_	_	2	_	_	SpaceAfter=No
+3	十	十	NUM	_	_	3	_	_	SpaceAfter=No
+4	五	_		_	_	4	_	_	SpaceAfter=No
+5	篇	五	NUM	_	_	5	_	_	SpaceAfter=No
+6	世	篇	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 382
+# text = 相敎傳而
+1	相	世	NOUN	_	_	1	_	_	SpaceAfter=No
+2	敎	相	ADV	_	_	2	_	_	SpaceAfter=No
+3	傳	敎	VERB	_	_	3	_	_	SpaceAfter=No
+4	而	傳	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 383
+# text = 莫能說天
+1	莫	而	CCONJ	_	_	1	_	_	SpaceAfter=No
+2	能	莫	ADV	_	_	2	_	_	SpaceAfter=No
+3	說	能	AUX	_	_	3	_	_	SpaceAfter=No
+4	天	說	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 384
+# text = 問以其文義不次又
+1	問	天	NOUN	_	_	1	_	_	SpaceAfter=No
+2	以	問	VERB	_	_	2	_	_	SpaceAfter=No
+3	其	以	VERB	_	_	3	_	_	SpaceAfter=No
+4	文	其	PRON	_	_	4	_	_	SpaceAfter=No
+5	義	文	NOUN	_	_	5	_	_	SpaceAfter=No
+6	不	義	NOUN	_	_	6	_	_	SpaceAfter=No
+7	次	不	ADV	_	_	7	_	_	SpaceAfter=No
+8	又	次	VERB	_	_	8	_	_	SpaceAfter=No
+
+# sent_id = 385
+# text = 多竒怪之事自
+1	多	又	ADV	_	_	1	_	_	SpaceAfter=No
+2	竒	多	VERB	_	_	2	_	_	SpaceAfter=No
+3	怪	竒	NOUN	_	_	3	_	_	SpaceAfter=No
+4	之	怪	VERB	_	_	4	_	_	SpaceAfter=No
+5	事	之	SCONJ	_	_	5	_	_	SpaceAfter=No
+6	自	事	NOUN	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 386
+# text = 太史公口論道之多
+1	太	自	ADP	_	_	1	_	_	SpaceAfter=No
+2	史	太	VERB	_	_	2	_	_	SpaceAfter=No
+3	公	史	NOUN	_	_	3	_	_	SpaceAfter=No
+4	口	公	NOUN	_	_	4	_	_	SpaceAfter=No
+5	論	口	NOUN	_	_	5	_	_	SpaceAfter=No
+6	道	論	VERB	_	_	6	_	_	SpaceAfter=No
+7	之	道	VERB	_	_	7	_	_	SpaceAfter=No
+8	多	之	PRON	_	_	8	_	_	SpaceAfter=No
+
+# sent_id = 387
+# text = 所不逮至
+1	所	多	VERB	_	_	1	_	_	SpaceAfter=No
+2	不	所	PART	_	_	2	_	_	SpaceAfter=No
+3	逮	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	至	逮	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 388
+# text = 於劉向楊
+1	於	至	VERB	_	_	1	_	_	SpaceAfter=No
+2	劉	於	ADP	_	_	2	_	_	SpaceAfter=No
+3	向	劉	PROPN	_	_	3	_	_	NE=B-SURNAME|SpaceAfter=No
+4	楊	向	PROPN	_	_	4	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 389
+# text = 雄援
+1	雄	楊	PROPN	_	_	1	_	_	NE=B-SURNAME|SpaceAfter=No
+2	援	雄	PROPN	_	_	2	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+
+# sent_id = 390
+# text = 引傳記以解說之亦
+1	引	援	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	傳	引	VERB	_	_	2	_	_	SpaceAfter=No
+3	記	傳	VERB	_	_	3	_	_	SpaceAfter=No
+4	以	記	VERB	_	_	4	_	_	SpaceAfter=No
+5	解	以	VERB	_	_	5	_	_	SpaceAfter=No
+6	說	解	VERB	_	_	6	_	_	SpaceAfter=No
+7	之	說	VERB	_	_	7	_	_	SpaceAfter=No
+8	亦	之	PRON	_	_	8	_	_	SpaceAfter=No
+
+# sent_id = 391
+# text = 不能詳悉所
+1	不	亦	ADV	_	_	1	_	_	SpaceAfter=No
+2	能	不	ADV	_	_	2	_	_	SpaceAfter=No
+3	詳	能	AUX	_	_	3	_	_	SpaceAfter=No
+4	悉	詳	VERB	_	_	4	_	_	SpaceAfter=No
+5	所	悉	ADV	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 392
+# text = 闕者衆日
+1	闕	所	PART	_	_	1	_	_	SpaceAfter=No
+2	者	闕	VERB	_	_	2	_	_	SpaceAfter=No
+3	衆	者	PART	_	_	3	_	_	SpaceAfter=No
+4	日	衆	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 393
+# text = 無聞焉旣
+1	無	日	NOUN	_	_	1	_	_	SpaceAfter=No
+2	聞	無	VERB	_	_	2	_	_	SpaceAfter=No
+3	焉	聞	VERB	_	_	3	_	_	SpaceAfter=No
+4	旣	焉	PART	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 394
+# text = 有詞乃
+1	有	旣	ADV	_	_	1	_	_	SpaceAfter=No
+2	詞	有	VERB	_	_	2	_	_	SpaceAfter=No
+3	乃	詞	NOUN	_	_	3	_	_	SpaceAfter=No
+
+# sent_id = 395
+# text = 復多連蹇其文濛
+1	復	乃	ADV	_	_	1	_	_	SpaceAfter=No
+2	多	復	VERB	_	_	2	_	_	SpaceAfter=No
+3	連	多	VERB	_	_	3	_	_	SpaceAfter=No
+4	蹇	連	VERB	_	_	4	_	_	SpaceAfter=No
+5	其	蹇	VERB	_	_	5	_	_	SpaceAfter=No
+6	文	其	PRON	_	_	6	_	_	SpaceAfter=No
+7	濛	文	NOUN	_	_	7	_	_	SpaceAfter=No
+
+# sent_id = 396
+# text = 澒其說故
+1	澒	濛	VERB	_	_	1	_	_	SpaceAfter=No
+2	其	澒	VERB	_	_	2	_	_	SpaceAfter=No
+3	說	其	PRON	_	_	3	_	_	SpaceAfter=No
+4	故	說	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 397
+# text = 厥義不昭微
+1	厥	故	ADV	_	_	1	_	_	SpaceAfter=No
+2	義	厥	PRON	_	_	2	_	_	SpaceAfter=No
+3	不	義	NOUN	_	_	3	_	_	SpaceAfter=No
+4	昭	不	ADV	_	_	4	_	_	SpaceAfter=No
+5	微	昭	VERB	_	_	5	_	_	SpaceAfter=No
+
+# sent_id = 398
+# text = 指不晢自
+1	指	微	VERB	_	_	1	_	_	SpaceAfter=No
+2	不	指	VERB	_	_	2	_	_	SpaceAfter=No
+3	晢	不	ADV	_	_	3	_	_	SpaceAfter=No
+4	自	晢	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 399
+# text = 游覽者靡不苦之而不能照也今
+1	游	自	PRON	_	_	1	_	_	SpaceAfter=No
+2	覽	游	VERB	_	_	2	_	_	SpaceAfter=No
+3	者	覽	VERB	_	_	3	_	_	SpaceAfter=No
+4	靡	者	PART	_	_	4	_	_	SpaceAfter=No
+5	不	靡	VERB	_	_	5	_	_	SpaceAfter=No
+6	苦	不	ADV	_	_	6	_	_	SpaceAfter=No
+7	之	苦	VERB	_	_	7	_	_	SpaceAfter=No
+8	而	之	PRON	_	_	8	_	_	SpaceAfter=No
+9	不	而	CCONJ	_	_	9	_	_	SpaceAfter=No
+10	能	不	ADV	_	_	10	_	_	SpaceAfter=No
+11	照	能	AUX	_	_	11	_	_	SpaceAfter=No
+12	也	照	VERB	_	_	12	_	_	SpaceAfter=No
+13	今	也	PART	_	_	13	_	_	SpaceAfter=No
+
+# sent_id = 400
+# text = 則稽之舊章合
+1	則	今	NOUN	_	_	1	_	_	SpaceAfter=No
+2	稽	則	ADV	_	_	2	_	_	SpaceAfter=No
+3	之	稽	VERB	_	_	3	_	_	SpaceAfter=No
+4	舊	之	PRON	_	_	4	_	_	SpaceAfter=No
+5	章	舊	VERB	_	_	5	_	_	SpaceAfter=No
+6	合	章	VERB	_	_	6	_	_	SpaceAfter=No
+
+# sent_id = 401
+# text = 之經傳以
+1	之	合	VERB	_	_	1	_	_	SpaceAfter=No
+2	經	之	SCONJ	_	_	2	_	_	SpaceAfter=No
+3	傳	經	NOUN	_	_	3	_	_	SpaceAfter=No
+4	以	傳	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 402
+# text = 相發明爲
+1	相	以	VERB	_	_	1	_	_	SpaceAfter=No
+2	發	相	ADV	_	_	2	_	_	SpaceAfter=No
+3	明	發	VERB	_	_	3	_	_	SpaceAfter=No
+4	爲	明	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 403
+# text = 之符驗章
+1	之	爲	ADP	_	_	1	_	_	SpaceAfter=No
+2	符	之	PRON	_	_	2	_	_	SpaceAfter=No
+3	驗	符	NOUN	_	_	3	_	_	SpaceAfter=No
+4	章	驗	VERB	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 404
+# text = 決句斷事
+1	決	章	PROPN	_	_	1	_	_	NE=B-GIVEN_NAME|SpaceAfter=No
+2	句	決	VERB	_	_	2	_	_	SpaceAfter=No
+3	斷	句	NOUN	_	_	3	_	_	SpaceAfter=No
+4	事	斷	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 405
+# text = 事可曉俾
+1	事	事	NOUN	_	_	1	_	_	SpaceAfter=No
+2	可	事	NOUN	_	_	2	_	_	SpaceAfter=No
+3	曉	可	AUX	_	_	3	_	_	SpaceAfter=No
+4	俾	曉	NOUN	_	_	4	_	_	SpaceAfter=No
+
+# sent_id = 406
+# text = 後學者永無疑焉
+1	後	俾	VERB	_	_	1	_	_	SpaceAfter=No
+2	學	後	NOUN	_	_	2	_	_	SpaceAfter=No
+3	者	學	VERB	_	_	3	_	_	SpaceAfter=No
+4	永	者	PART	_	_	4	_	_	SpaceAfter=No
+5	無	永	VERB	_	_	5	_	_	SpaceAfter=No
+6	疑	無	VERB	_	_	6	_	_	SpaceAfter=No
+7	焉	疑	VERB	_	_	7	_	_	SpaceAfter=No
