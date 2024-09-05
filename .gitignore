@@ -6,3 +6,5 @@ __pycache__/
 project.lock
 training/
 pretrain/
+packages/
+corpus/
