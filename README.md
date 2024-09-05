@@ -1,13 +1,8 @@
 <!-- WEASEL: AUTO-GENERATED DOCS START (do not remove) -->
 
-# 🪐 Weasel Project: Train new language core model with Cadet and INCEpTION
+# 🪐 Weasel Project: Asking Questions to Confucius in Classical Chinese Texts
 
-This project template lets you train a part-of-speech tagger, dependency parser, and named entity recognizer for a new language from your Cadet and INCEpTION data. It includes configuration for pretraining your model on raw text to improve its accuracy.
-
-To get started, clone this project using Weasel:
-`spacy project clone --repo https://github.com/New-Languages-for-NLP/project-templates.git my_project_name`
-
-Then, follow the instructions in the README in the assets directory to set up your project's assets.
+This project uses annotated data from Classical Chinese works to train a part of speech tagger and named entity recognizer. We construct an NLP pipeline that can isolate sentences in Classical texts where a named person is asking a question to Confucius. Texts are taken from the Kanseki Repository.
 
 
 ## 📋 project.yml
@@ -58,7 +53,7 @@ in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
-| [`assets/lang/zxx`](assets/lang/zxx) | Local | New language module from Cadet |
+| [`assets/lang/lzh`](assets/lang/lzh) | Local | New language module from Cadet |
 | [`assets/text`](assets/text) | Local | Raw text files for pretraining |
 | [`assets/annotations`](assets/annotations) | Local | Annotated text files from INCEpTION |
 
